@@ -15,7 +15,7 @@ bigimg: https://genomescienceconf.github.io/img/banner_placeholder.jpg
 - <a href="/assets/agendas/Oxford Genome Science 2014 programme.pdf">Genome Science 2014, University of Oxford</a>
 - <a href="/assets/agendas/Brimingham_GenomeScience-programme-20150904.pdf">Genome Science 2015, University of Birmingham</a>
 - <a href="/assets/agendas/Liverpool_GenomeScienceAgenda_2016.pdf">Genome Science 2016, University of Liverpool</a>
-- Genome Science 2017, Norwich
+- <a href="/assets/agendas/G10KGS Programme.pdf">Genome Science 2017, Norwich</a>
 - <a href="/assets/agendas/Nottingham_GenomeScience_2018_Programme.docx">Genome Science 2018, University of Nottingham</a>
 - <a href="/assets/agendas/Edinburgh_ Genome Science 2019_Agenda.pdf">Genome Science 2019, University of Edinburgh</a>
 - 2020-2023 Conference Furlough, the COVID years
