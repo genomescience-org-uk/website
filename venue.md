@@ -8,22 +8,63 @@ bigimg: /assets/img/chemistry-1.jpg
 
 ## Conference Venue
 
-<!-- ![Chemistry Building](/assets/img/chemistry-1.jpg){:width="800" style="padding: 10px"}
+The conference will take place on Newcastle Helix in the heart of the city centre at the Newcastle University Campus, in both the Frederick Douglass Centre and the Urban Sciences Building, which are adjacent buildings. The venue is within 10 minutes’ walk of a large variety of restaurants, accommodation and hotels. 
 
-Genome Science will take place at the Chemistry Building of University of Bristol’s Clifton campus. This venue can accommodate three concurrent session during the conference period. It has also been the a location that might be recognised from film and TV, most recently Netflix’s popular original series Sex Education. Just outside of the of main building is Palm Temple, a spectacular sculptural installation by internationally renowned artist Luke Jerram.
+Venue details
+Frederick Douglass Centre
+Newcastle Helix
+Newcastle upon Tyne
+NE4 5TF
 
-![Palm Temple](/assets/img/chemistry-2.jpg){:width="800" style="padding: 10px"} -->
+[https://newcastlehelix.com/explore](https://newcastlehelix.com/explore)
 
-## Dinner Venue - 
+## Getting There
 
-<!-- ![Tables](/assets/img/dinner3.jpg){:width="800" style="padding: 10px"}
+### By Car:
+Newcastle Helix is easily accessible by road via the A1 from the north and south and the A69 from the west. There are several nearby public carparks.
 
-Located in the heart of Bristol, Bristol Harbour Hotel fuses two iconic former bank properties to offer a spectacular event space, right in the heart of the city. Designed by renowned architect William Bruce Gingell the Hotel is converted from the previous Lloyds Bank building, inspired by Sansovino’s 16th century Venetian Library. 
+### By Train & Metro:
+7 minute walk from Central Station with direct links to all major UK cities. 
 
-![Ceiling](/assets/img/dinner1.jpg){:width="800" style="padding: 10px"}
+The closest metro station is St James, a 2 minute walk from the venue. 
 
-We will be dining in the Sansovino: a grand former banking hall now serving as an impressive event space offering beautiful historical details and a magnificent sky light, providing a stunning backdrop for Genome Science in the heart of the city.
+### By Air:
+7.7 miles or 30 minutes by Metro from Newcastle International Airport.
 
-![Tables](/assets/img/dinner2.jpg){:width="800" style="padding: 10px"} -->
+## Desination Overview
+
+* Modern, thriving city that delegates love
+* Rough Guide ‘top place in the world to visit’ in 2018
+* Newcastle is named one of five trending UK destinations for 2023 by booking.com
+* Rolling countryside, outstanding castles, stunning coastline and vibrant night life
+* 2,000 years of history and passion for sport
+* Legendary Geordie friendliness
+
+
+## TRAVEL 
+
+### By Air 
+
+* Airport 12 kilometres ( 8 miles) from the city
+* Directly connected to 80+ destinations
+* Regular flights from London, Paris, Amsterdam, and Dubai – Destination Map
+* Airport-city centre only 25 mins by Metro (directly linked) or 15 mins in a taxi
+
+### By Rail 
+
+* Central Station in the heart of the city
+* Direct services from all major UK cities
+* Approx 200 trains daily from across UK
+* High speed rail links (<3hrs from London and 90 minutes from Edinburgh) 
+
+### By Sea 
+
+* DFDS Newcastle-Amsterdam 7 days/week 
+
+### By Road
+
+* A1(M) linking to London, the South, Scotland and major routes across UK
+
+
 
 
