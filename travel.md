@@ -6,7 +6,7 @@ use-site-title: true
 bigimg: /assets/img/chemistry-1.jpg
 ---
 
-## Travel
+## Accomodation
 
 <!-- Genome Science 2024 will be held at the School of Chemistry, University of Bristol. It will start on Tuesday, 16th of July 2024 at 12 pm with registration and lunch, and the first keynote lectures start at 13:30. It will finish on Thursday, 18th July at 1 pm onward with lunch before onwards travel. For directions to the Dinner venue, please see the bottom of the page.
 

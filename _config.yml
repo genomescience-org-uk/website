@@ -23,7 +23,7 @@ navbar-links:
   Home: "index"
   Registration and Abstract Submission:
     - Register: "register"
-    - Abstract Submission: "abstracts"  
+    - Abstract Submission: "abstract"  
   Venue & Travel: "venue"
   Accomodation: "https://ngcb.hotelplanner.com/Event/79b5/"
   Contact: "contact"
