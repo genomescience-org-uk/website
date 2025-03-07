@@ -3,7 +3,7 @@ layout: page
 title: Genome Science
 subtitle: Newcastle, Date
 use-site-title: true
-bigimg: assets/img/newcastle-gateshead-quayside.jpg
+bigimg: /assets/img/newcastle-gateshead-quayside.jpg
 ---
 
 ## Registration
