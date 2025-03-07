@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Genome Science
-subtitle: Newcastle, Date
+subtitle: Newcastle, 9th - 11th July 2025
 use-site-title: true
 bigimg: https://github.com/genomescience-org-uk/website/blob/master/assets/img/Frederick_Douglas_Centre.jpg
 ---
