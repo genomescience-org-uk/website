@@ -3,7 +3,7 @@ layout: page
 title: Genome Science
 subtitle: Newcastle, Date
 use-site-title: true
-bigimg: /assets/img/Frederick_Douglas_Centre.jpg  
+bigimg: https://github.com/genomescience-org-uk/website/blob/master/assets/img/Frederick_Douglas_Centre.jpg
 ---
 
 ## Conference Venue
