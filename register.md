@@ -14,5 +14,13 @@ There are various registration options - some are time limited so sign up soon o
 
 [Register here](https://register.oxfordabstracts.com/event/74773)
 
+| Delegates               | Early rate | Default rate |
+|-------------------------|------------|--------------|
+| Student                | £250       | £275         |
+| Core Facility          | £275       | £300         |
+| Academic & Healthcare  | £325       | £350         |
+| Industry               |            | £400         |
+
+
 
 
