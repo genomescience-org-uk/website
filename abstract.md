@@ -5,8 +5,8 @@ subtitle: Newcastle, Date
 use-site-title: true
 bigimg: /assets/img/Quayside_4_Credit_Visit_England.jpg
 ---
-![Newcastle Upon Tyne]([https://github.com/genomescience-org-uk/website/blob/master/assets/img/Newcastle_Pano.jpg?raw=true](https://raw.githubusercontent.com/genomescience-org-uk/website/master/assets/img/Newcastle_Pano.jpg))
 
+![Newcastle Upon Tyne](https://github.com/genomescience-org-uk/website/blob/master/assets/img/Newcastle_Pano.jpg?raw=true)
 
 
 ## Abstract Submission 
