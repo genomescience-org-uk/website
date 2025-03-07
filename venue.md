@@ -3,7 +3,7 @@ layout: page
 title: Genome Science
 subtitle: Newcastle, Date
 use-site-title: true
-bigimg: /assets/img/chemistry-1.jpg
+bigimg: "website\assets\img\Frederick Douglas Centre.jpg"  
 ---
 
 ## Conference Venue
