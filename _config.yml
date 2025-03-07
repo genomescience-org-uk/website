@@ -21,7 +21,7 @@ author: Genome Sciences
 
 navbar-links:
   Home: "index"
-  Registration and Abstract\n Submission:
+  Registration and Abstract Submission:
     - Register: "register"
     - Abstract Submission: "abstract"  
   Venue & Travel: "venue"
