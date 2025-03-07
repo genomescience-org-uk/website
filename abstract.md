@@ -3,7 +3,7 @@ layout: page
 title: Genome Science
 subtitle: Newcastle, Date
 use-site-title: true
-bigimg: website\assets\img\Newcastle_Pano.jpg
+bigimg: /assets/img/Newcastle_Pano.jpg
 ---
 
 ## Abstract Submission 
