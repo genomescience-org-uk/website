@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Genome Science
-subtitle: Newcastle, Date
+subtitle: Newcastle, 9th - 11th July 2025
 use-site-title: true
 bigimg: /assets/img/Quayside_4_Credit_Visit_England.jpg
 ---
