@@ -73,12 +73,11 @@ bigimg: /assets/img/Quayside_4_Credit_Visit_England.jpg
 |            |          | -         | **Close end of day 2** |
 
 ### **Conference Dinner**
-| Start (GMT) | Finish (GMT) | Event |
-|------------|------------|------|
-| -          | -          | **Genome Science Conference Dinner** |
-|            |            | The Magpie Suite, St James' Park - Newcastle United Football Club |
 
----
+ **Genome Science Conference Dinner** 
+The Magpie Suite, St James' Park - Newcastle United Football Club 
+
+
 
 ## Friday 11th July 2025
 
