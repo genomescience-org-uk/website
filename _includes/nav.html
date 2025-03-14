@@ -26,10 +26,7 @@
           </li>
         {% else %}
           <li class="nav-item">
-            <a class="nav-link" href="{{ link[1] }}"
-              {% if link[1] contains 'http' %}target="_blank" rel="noopener noreferrer"{% endif %}>
-              {{ link[0] | replace: " & ", " <br>& "  }}
-            </a>
+            <a class="nav-link" href="{{ link[1] | relative_url }}">{{ link[0] }}</a>
           </li>
         {%- endif -%}
       {%- endfor -%}
