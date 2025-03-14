@@ -25,7 +25,8 @@ navbar-links:
     - Register: "register"
     - Abstract Submission: "abstract"  
   Venue & Travel: "venue"
-  Accommodation: "<a href='https://ngcb.hotelplanner.com/Event/79b5/' target='_blank'>Accommodation</a>"
+  #Accommodation: "<a href='https://ngcb.hotelplanner.com/Event/79b5/' target='_blank'>Accommodation</a>"
+  Accommodation: "https://ngcb.hotelplanner.com/Event/79b5/"
   Programme: "speakers"
   Contact: "contact"
 
