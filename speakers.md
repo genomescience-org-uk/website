@@ -16,15 +16,15 @@ bigimg: /assets/img/Quayside_4_Credit_Visit_England.jpg
 | Start (GMT) | Finish (GMT) | Presenter | Presentation Details |
 |------------|------------|-----------|----------------------|
 | 12:00     | 13:30     | -         | Registration, Lunch and Networking |
-| 13:30     | 14:30     | Keynotes  | **Chair:** Nick Loman, University of Birmingham |
+| 13:30     | 14:30     | **Keynotes**  | **Chair:** Nick Loman, University of Birmingham |
 |            |          | Matthew Cobb | University of Manchester |
-| 14:30     | 16:00     | Evolving Technologies 1 | **Chair:** Michael Quail, Wellcome Sanger Institute |
+| 14:30     | 16:00     | **Evolving Technologies 1** | **Chair:** Michael Quail, Wellcome Sanger Institute |
 |            |          | Illumina |  |
 |            |          | Element Biosciences |  |
 |            |          | Oxford |  |
 |            |          | PacBio |  |
 | 16:00     | 16:30     | -         | Coffee Break |
-| 16:30     | 18:00     | Evolving Technologies 2 | **Chair:** Michael Quail, Wellcome Sanger Institute |
+| 16:30     | 18:00     | **Evolving Technologies 2** | **Chair:** Michael Quail, Wellcome Sanger Institute |
 |            |          | 10X Genomics |  |
 |            |          | Ultima |  |
 |            |          | Single Technologies |  |
@@ -44,30 +44,30 @@ bigimg: /assets/img/Quayside_4_Credit_Visit_England.jpg
 
 | Start (GMT) | Finish (GMT) | Presenter | Presentation Details |
 |------------|------------|-----------|----------------------|
-| 09:30     | 11:00     | Plant and Animal Genomics | **Chair:** Al Darby, University of Liverpool |
+| 09:30     | 11:00     | **Plant and Animal Genomics** | **Chair:** Al Darby, University of Liverpool |
 | 11:00     | 11:30     | -         | Coffee Break |
-| 11:30     | 13:05     | Spatial Genomics | **Chair:** Iain Macaulay, Earlham Institute |
+| 11:30     | 13:05     | **Spatial Genomics** | **Chair:** Iain Macaulay, Earlham Institute |
 |            |          | Christobal Uauy | John Innes Centre - Spatial transcriptomics in wheat |
 |            |          | Mathieu Bourdenx | University College London - Spatial transcriptomics in Dementia research |
 | 13:05     | 14:00     | -         | Photo, Lunch and Poster Session II |
-| 14:00     | 15:30     | Epigenetics/Human & Clinical Genomics | **Chair:** Ania Piskorz, CRUK Cambridge Institute, University of Cambridge |
+| 14:00     | 15:30     | **Epigenetics/Human & Clinical Genomics** | **Chair:** Ania Piskorz, CRUK Cambridge Institute, University of Cambridge |
 | 15:30     | 16:00     | -         | Coffee Break |
-| 16:00     | 17:30     | Computational Biology | **Chair:** Sion Bayliss, University of Bristol |
+| 16:00     | 17:30     | **Computational Biology** | **Chair:** Sion Bayliss, University of Bristol |
 
 ### **Parallel Session B - LT3**
 
 | Start (GMT) | Finish (GMT) | Presenter | Presentation Details |
 |------------|------------|-----------|----------------------|
-| 09:30     | 11:05     | Evolutionary Genomics | **Chair:** Matt Loose, University of Nottingham |
+| 09:30     | 11:05     | **Evolutionary Genomics** | **Chair:** Matt Loose, University of Nottingham |
 |            |          | Ian Henderson | University of Cambridge - Evolution of Plant Centromeres |
 | 11:00     | 11:30     | -         | Coffee Break |
-| 11:30     | 13:00     | Microbial Genomics | **Chair:** Lauren Cowley, University of Bath |
+| 11:30     | 13:00     | **Microbial Genomics** | **Chair:** Lauren Cowley, University of Bath |
 |            |          | Josie Bryant | Wellcome Sanger Institute - tbc |
 |            |          | Elita Jauneikaite | Imperial College London - tbc |
 | 13:00     | 14:00     | -         | Lunch and Poster Session II |
-| 14:00     | 15:35     | Microbial Communities & Microbiome | **Chair:** Nick Loman, University of Birmingham |
+| 14:00     | 15:35     | **Microbial Communities & Microbiome** | **Chair:** Nick Loman, University of Birmingham |
 | 15:35     | 16:00     | -         | Coffee Break |
-| 16:00     | 17:35     | Human & Clinical Genomics | **Chair:** Jonathan Coxhead, Newcastle University |
+| 16:00     | 17:35     | **Human & Clinical Genomics** | **Chair:** Jonathan Coxhead, Newcastle University |
 |            |          | Andrew Parrish | Royal Devon and Exeter NHS Foundation Trust - Exeter Genomics Laboratory |
 |            |          | Genomics England | Generations Study |
 |            |          | -         | **Close end of day 2** |
