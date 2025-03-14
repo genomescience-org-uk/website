@@ -11,8 +11,8 @@ bigimg: /assets/img/Quayside_4_Credit_Visit_England.jpg
 
 ## Accomodation
 
-Abstract submission is now open for short talks and poster presentations at Genome Science UK 2025. Register your interest via the <a href ="https://app.oxfordabstracts.com/stages/77762/submitter" target="_blank">Abstract Submission Portal</a>. Note that this is separate from the registering for the conference (<a href="https://register.oxfordabstracts.com/event/74773" target="_blank">to register</a>). Registration will be a requirement for accepted presentations.
 
-We’ve snapped up some special room rates throughout the city for your stay during the conference. <a href = "https://ngcb.hotelplanner.com/Event/79b5/", target = "_blank">Vist the official accommodation website for the Genome Science UK 2025 </a>
+
+We’ve snapped up some special room rates throughout the city for your stay during the conference. <a href = "https://ngcb.hotelplanner.com/Event/79b5/" target = "_blank">Vist the official accommodation website for the Genome Science UK 2025 </a>
 
 
