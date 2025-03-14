@@ -11,10 +11,10 @@ bigimg: /assets/img/newcastle-gateshead-quayside.jpg
 ## Registration
 
 There are various registration options - some are time limited so sign up soon or miss out!
+<a href="https://register.oxfordabstracts.com/event/74773" target="_blank">Register here</a>
 
-[Register here](https://register.oxfordabstracts.com/event/74773)
 
-| Delegates               | Early rate | Default rate |
+| Delegates               | Earlybird rate | Standard rate |
 |-------------------------|------------|--------------|
 | Student                | £250       | £275         |
 | Core Facility          | £275       | £300         |
