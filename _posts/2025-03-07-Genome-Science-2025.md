@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Genome Science 2025
+title: Genome Science UK 2025
 subtitle: Newcastle University
 cover-img: https://github.com/genomescience-org-uk/website/blob/master/assets/img/angel.png?raw=true
 ---
