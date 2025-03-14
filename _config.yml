@@ -21,7 +21,7 @@ author: Genome Science UK
 
 navbar-links:
   Home: "index"
-  Registration & Abstract Submission:
+  Registration & Abstracts:
     - Register: "register"
     - Abstract Submission: "abstract"  
   Venue & Travel: "venue"
