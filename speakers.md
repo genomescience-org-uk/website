@@ -61,7 +61,7 @@ bigimg: /assets/img/Quayside_4_Credit_Visit_England.jpg
 | Start (GMT) | Finish (GMT) | Presenter | Presentation Details |
 |------------|------------|-----------|----------------------|
 | 09:30     | 11:05     | **Evolutionary Genomics** | **Chair:** Matt Loose, University of Nottingham |
-|            |          | Ian Henderson | University of Cambridge - Evolution of Plant Centromeres |
+|            |          | Ian Henderson | University of Cambridge |
 | 11:00     | 11:30     | -         | Coffee Break |
 | 11:30     | 13:00     | **Microbial Genomics** | **Chair:** Lauren Cowley, University of Bath |
 |            |          | Josie Bryant | Wellcome Sanger Institute |
