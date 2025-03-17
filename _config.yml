@@ -27,7 +27,9 @@ navbar-links:
   Venue & Travel: "venue"
   #Accommodation: "<a href='https://ngcb.hotelplanner.com/Event/79b5/' target='_blank'>Accommodation</a>"
   Accommodation: accomodation
-  Programme: "speakers"
+  Speakers and Programme:
+    - 2025 Programme : "speakers"
+    - Previous meetings : "programme"
   Contact: "contact"
 
   #Speakers and Programme:
