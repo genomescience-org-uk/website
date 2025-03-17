@@ -29,7 +29,7 @@ navbar-links:
   Accommodation: accomodation
   Programme:
     - 2025 Programme : "speakers"
-    - Previous meetings : "programme"
+    - Previous meetings : "previous_meetings"
   Contact: "contact"
 
   #Speakers and Programme:
