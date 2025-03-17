@@ -45,14 +45,16 @@ bigimg: /assets/img/Quayside_4_Credit_Visit_England.jpg
 | Start (GMT) | Finish (GMT) | Presenter | Presentation Details |
 |------------|------------|-----------|----------------------|
 | 09:30     | 11:00     | **Plant and Animal Genomics** | **Chair:** Al Darby, University of Liverpool |
+|            |          | Antony Hall  | Earlham Institute |
 | 11:00     | 11:30     | -         | Coffee Break |
 | 11:30     | 13:05     | **Spatial Genomics** | **Chair:** Iain Macaulay, Earlham Institute |
-|            |          | Christobal Uauy | John Innes Centre - Spatial transcriptomics in wheat |
-|            |          | Mathieu Bourdenx | University College London - Spatial transcriptomics in Dementia research |
+|            |          | Christobal Uauy | John Innes Centre |
+|            |          | Mathieu Bourdenx | University College London  |
 | 13:05     | 14:00     | -         | Photo, Lunch and Poster Session II |
 | 14:00     | 15:30     | **Epigenetics/Human & Clinical Genomics** | **Chair:** Ania Piskorz, CRUK Cambridge Institute, University of Cambridge |
 | 15:30     | 16:00     | -         | Coffee Break |
 | 16:00     | 17:30     | **Computational Biology** | **Chair:** Sion Bayliss, University of Bristol |
+|            |          | Zamin Iqbal  | University of Bath |
 
 ### **Parallel Session B - LT3**
 
@@ -62,8 +64,8 @@ bigimg: /assets/img/Quayside_4_Credit_Visit_England.jpg
 |            |          | Ian Henderson | University of Cambridge - Evolution of Plant Centromeres |
 | 11:00     | 11:30     | -         | Coffee Break |
 | 11:30     | 13:00     | **Microbial Genomics** | **Chair:** Lauren Cowley, University of Bath |
-|            |          | Josie Bryant | Wellcome Sanger Institute - tbc |
-|            |          | Elita Jauneikaite | Imperial College London - tbc |
+|            |          | Josie Bryant | Wellcome Sanger Institute |
+|            |          | Elita Jauneikaite | Imperial College London |
 | 13:00     | 14:00     | -         | Lunch and Poster Session II |
 | 14:00     | 15:35     | **Microbial Communities & Microbiome** | **Chair:** Nick Loman, University of Birmingham |
 | 15:35     | 16:00     | -         | Coffee Break |
@@ -85,7 +87,7 @@ The Magpie Suite, St James' Park - Newcastle United Football Club
 |------------|------------|-----------|----------------------|
 | 08:30     | 09:30     | -         | Coffee and Pastries |
 | 09:30     | 11:05     | New Methods in Genomics | **Co-chairs:** Victoria Wright, Iain Macaulay |
-|            |          | Yujia Qing | University of Oxford - Nanopore sequencing of proteins |
+|            |          | Yujia Qing | University of Oxford |
 | 11:00     | 11:30     | -         | Coffee Break |
 | 11:30     | 12:30     | Keynotes | **Chair:** Michael Quail, Wellcome Sanger Institute |
 | 12:30     | THE END   | -         | Lunch and Leaving |

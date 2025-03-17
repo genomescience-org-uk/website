@@ -17,7 +17,7 @@ Newcastle Helix
 Newcastle upon Tyne
 NE4 5TF
 
-[https://newcastlehelix.com/explore](https://newcastlehelix.com/explore)
+[https://newcastlehelix.com](https://newcastlehelix.com)
 
 ## Getting There
 
