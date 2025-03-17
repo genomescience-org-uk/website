@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Genome Science
+title: Genome Science UK
 use-site-title: true
 bigimg: https://genomescienceconf.github.io/img/banner_placeholder.jpg
 ---
