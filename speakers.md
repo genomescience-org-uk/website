@@ -17,18 +17,18 @@ bigimg: /assets/img/Quayside_4_Credit_Visit_England.jpg
 |------------|------------|-----------|----------------------|
 | 12:00     | 13:30     | -         | Registration, Lunch and Networking |
 | 13:30     | 14:30     | **Keynotes**  | **Chair:** Nick Loman, University of Birmingham |
-|            |          | Matthew Cobb | University of Manchester |
+|            |          | Matthew Cobb, **Crick: A Mind in Motion – from DNA to the Brain** | University of Manchester |
 | 14:30     | 16:00     | **Evolving Technologies 1** | **Chair:** Michael Quail, Wellcome Sanger Institute |
-|            |          | Illumina |  |
-|            |          | Element Biosciences |  |
-|            |          | Oxford |  |
-|            |          | PacBio |  |
+|            |          | Illumina | Jason Betley |
+|            |          | Element Biosciences | Rachel Piddock |
+|            |          | Oxford | Dan Fordham |
+|            |          | PacBio | Neil Ward |
 | 16:00     | 16:30     | -         | Coffee Break |
 | 16:30     | 18:00     | **Evolving Technologies 2** | **Chair:** Michael Quail, Wellcome Sanger Institute |
-|            |          | 10X Genomics |  |
-|            |          | Ultima |  |
-|            |          | Single Technologies |  |
-|            |          | Roche |  |
+|            |          | 10X Genomics | Nicola Cahill |
+|            |          | Ultima | tbc |
+|            |          | Single Technologies | Johan Stroemqvist |
+|            |          | Roche | Bernd Timmermann |
 | 18:00     | 19:30     | -         | Drinks Reception and Poster Session 1 |
 |            |          | -         | **Close end of day 1** |
 
