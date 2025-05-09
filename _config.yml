@@ -20,7 +20,7 @@ author: Genome Science UK
 ###############################################
 
 navbar-links:
-  Home: "index"
+  Home: "2025-05-09-Genome-Science-2025"
   Registration & Abstracts:
     - Register: "register"
     - Abstract Submission: "abstract"  
@@ -30,7 +30,9 @@ navbar-links:
   Programme:
     - 2025 Programme : "speakers"
     - Previous meetings : "previous_meetings"
-  Contact: "contact"
+  Contact:
+    - Register:  "contact"
+    - Organising Committee: "organising_committee"
 
   #Speakers and Programme:
     #- Keynote Speakers: "keynotes"
