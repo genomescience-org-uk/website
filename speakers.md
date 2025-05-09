@@ -17,12 +17,13 @@ bigimg: /assets/img/Quayside_4_Credit_Visit_England.jpg
 |------------|------------|-----------|----------------------|
 | 12:00     | 13:30     | -         | Registration, Lunch and Networking |
 | 13:30     | 14:30     | **Keynotes**  | **Chair:** Nick Loman, University of Birmingham |
-|            |          | Matthew Cobb, **Crick: A Mind in Motion – from DNA to the Brain** | University of Manchester |
+| 13:30     | 14:00    | Beth Shapiro |  |
+| 14:00     | 14:30     | Matthew Cobb | University of Manchester |
 | 14:30     | 16:00     | **Evolving Technologies 1** | **Chair:** Michael Quail, Wellcome Sanger Institute |
-|            |          | Illumina | Jason Betley |
-|            |          | Element Biosciences | Rachel Piddock |
-|            |          | Oxford | Dan Fordham |
-|            |          | PacBio | Neil Ward |
+| 14:30           |  14:50        | Jason Betley | Illumina|
+| 14:50           |  15:10        | Rachel Piddock | Element Biosciences | 
+| 15:10           |  15:10        | Dan Fordham | Oxford Nanopore Technologies | 
+| 15:30           |  15:50        | Neil Ward | PacBio | 
 | 16:00     | 16:30     | -         | Coffee Break |
 | 16:30     | 18:00     | **Evolving Technologies 2** | **Chair:** Michael Quail, Wellcome Sanger Institute |
 |            |          | 10X Genomics | Nicola Cahill |
@@ -45,16 +46,20 @@ bigimg: /assets/img/Quayside_4_Credit_Visit_England.jpg
 | Start (GMT) | Finish (GMT) | Presenter | Presentation Details |
 |------------|------------|-----------|----------------------|
 | 09:30     | 11:00     | **Plant and Animal Genomics** | **Chair:** Al Darby, University of Liverpool |
-|            |          | Antony Hall  | Earlham Institute |
+| 9:30           | 9:55         | Mara Lawniczak  |  |
+| 9:55           | 10:20         | Antony Hall  | Earlham Institute |
 | 11:00     | 11:30     | -         | Coffee Break |
 | 11:30     | 13:05     | **Spatial Genomics** | **Chair:** Iain Macaulay, Earlham Institute |
-|            |          | Christobal Uauy | John Innes Centre |
-|            |          | Mathieu Bourdenx | University College London  |
+| 11:30           | 11:55         | Christobal Uauy | John Innes Centre |
+| 11:55           | 12:20         | Mathieu Bourdenx | University College London  |
 | 13:05     | 14:00     | -         | Photo, Lunch and Poster Session II |
 | 14:00     | 15:30     | **Epigenetics/Human & Clinical Genomics** | **Chair:** Ania Piskorz, CRUK Cambridge Institute, University of Cambridge |
+| 14:00           | 14:25         | Sarah McClelland  | Barts Cancer Institute, Queen Mary University of London  |
+| 14:25           | 14:20         | Raheleh Rahbari | Wellcome Sanger Institute  |
 | 15:30     | 16:00     | -         | Coffee Break |
 | 16:00     | 17:30     | **Computational Biology** | **Chair:** Sion Bayliss, University of Bristol |
-|            |          | Zamin Iqbal  | University of Bath |
+| 16:00            |  16:25        | Zamin Iqbal  | University of Bath |
+| 16:25            |  16:50        | Nicole Wheeler  | University of Birmingham |
 
 ### **Parallel Session B - LT3**
 
