@@ -9,13 +9,22 @@ bigimg: https://github.com/genomescience-org-uk/website/blob/master/assets/img/F
 
 ## Organising Committee 2025
 
-Sion Baylis - University of Bristol
-Lauren Cowley - University of Bath
-Jonathan Coxhead - Newcastle University
-Alistair Darby - University of Liverpool
-Sally James - University of York
-Nick Loman - University of Birmighham
-Matt Loose - University of Nottingham
-Iain Macaulay - Earlham Institute
-Ania Piskorz - CRUK University of Cambridge
-Mike Quail - Wellcome Sanger Institute
+* Sion Baylis - University of Bristol
+
+* Lauren Cowley - University of Bath
+
+* Jonathan Coxhead - Newcastle University
+
+* Alistair Darby - University of Liverpool
+
+* Sally James - University of York
+
+* Nick Loman - University of Birmighham
+
+* Matt Loose - University of Nottingham
+
+* Iain Macaulay - Earlham Institute
+
+* Ania Piskorz - CRUK University of Cambridge
+
+* Mike Quail - Wellcome Sanger Institute
