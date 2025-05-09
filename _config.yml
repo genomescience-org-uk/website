@@ -20,7 +20,7 @@ author: Genome Science UK
 ###############################################
 
 navbar-links:
-  Home: "2025-05-09-Genome-Science-2025"
+  Home: "index"
   Registration & Abstracts:
     - Register: "register"
     - Abstract Submission: "abstract"  
