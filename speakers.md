@@ -17,8 +17,8 @@ bigimg: /assets/img/Quayside_4_Credit_Visit_England.jpg
 |------------|------------|-----------|----------------------|
 | 12:00     | 13:30     | -         | Registration, Lunch and Networking |
 | 13:30     | 14:30     | **Keynotes**  | **Chair:** Nick Loman, University of Birmingham |
-| 13:30     | 14:00    | Beth Shapiro |  |
-| 14:00     | 14:30     | Matthew Cobb | University of Manchester |
+| 13:30     | 14:00     | Matthew Cobb | University of Manchester |
+| 14:00     | 14:30     | Matt Loose | University of Nottingham |
 | 14:30     | 16:00     | **Evolving Technologies 1** | **Chair:** Michael Quail, Wellcome Sanger Institute |
 | 14:30           |  14:50        | Jason Betley | Illumina|
 | 14:50           |  15:10        | Rachel Piddock | Element Biosciences | 
@@ -95,6 +95,8 @@ The Magpie Suite, St James' Park - Newcastle United Football Club
 |            |          | Yujia Qing | University of Oxford |
 | 11:00     | 11:30     | -         | Coffee Break |
 | 11:30     | 12:30     | Keynotes | **Chair:** Michael Quail, Wellcome Sanger Institute |
+|           |           | Gil McVean | The Ellison Institute of Technology |
+|           |           |  Wendy Bickmore |  University of Edinburgh |
 | 12:30     | THE END   | -         | Lunch and Leaving |
 |            |          | -         | **Close end of day 3** |
 
