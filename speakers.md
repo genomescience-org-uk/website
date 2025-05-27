@@ -73,6 +73,7 @@ bigimg: /assets/img/Quayside_4_Credit_Visit_England.jpg
 |            |          | Elita Jauneikaite | Imperial College London |
 | 13:00     | 14:00     | -         | Lunch and Poster Session II |
 | 14:00     | 15:35     | **Microbial Communities & Microbiome** | **Chair:** Nick Loman, University of Birmingham |
+| 14:00     | 14:30     | Chris Quince | Earlham and Quadram Institutes |
 | 15:35     | 16:00     | -         | Coffee Break |
 | 16:00     | 17:35     | **Human & Clinical Genomics** | **Chair:** Jonathan Coxhead, Newcastle University |
 |            |          | Andrew Parrish | Royal Devon and Exeter NHS Foundation Trust - Exeter Genomics Laboratory |
