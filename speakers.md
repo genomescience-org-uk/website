@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Genome Science UK
-subtitle: Newcastle, 9th - 11th July 2025
+subtitle: 'Newcastle, 9th - 11th July 2025'
 use-site-title: true
 bigimg: /assets/img/Quayside_4_Credit_Visit_England.jpg
 ---
@@ -53,9 +53,9 @@ bigimg: /assets/img/Quayside_4_Credit_Visit_England.jpg
 | 11:30           | 11:55         | Christobal Uauy | John Innes Centre |
 | 11:55           | 12:20         | Mathieu Bourdenx | University College London  |
 | 13:05     | 14:00     | -         | Photo, Lunch and Poster Session II |
-| 14:00     | 15:30     | **Epigenetics/Human & Clinical Genomics** | **Chair:** Ania Piskorz, CRUK Cambridge Institute, University of Cambridge |
-| 14:00           | 14:25         | Sarah McClelland  | Barts Cancer Institute, Queen Mary University of London  |
-| 14:25           | 14:20         | Raheleh Rahbari | Wellcome Sanger Institute  |
+| 14:00     | 15:30     | **Epigenetics/Human & Clinical Genomics** | **Chair:** Ania Piskorz,  CRUK Cambridge Institute, University of Cambridge |
+| 14:00     | 14:30    | Florent Mouliere, Cancer Research UK National Biomarker Centre  | Towards multi-modal liquid biopsies | 
+| 14:30     | 15:00     | Carolin Sauer, EMBL-EBI  | Multimodal liquid biopsy analysis in children with cancer using long-read sequencing on a national scale |	
 | 15:30     | 16:00     | -         | Coffee Break |
 | 16:00     | 17:30     | **Computational Biology** | **Chair:** Sion Bayliss, University of Bristol |
 | 16:00            |  16:25        | Zamin Iqbal  | University of Bath |
@@ -100,6 +100,3 @@ The Magpie Suite, St James' Park - Newcastle United Football Club
 |           |           |  Wendy Bickmore |  University of Edinburgh |
 | 12:30     | THE END   | -         | Lunch and Leaving |
 |            |          | -         | **Close end of day 3** |
-
-
-
