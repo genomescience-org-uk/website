@@ -16,7 +16,7 @@ We are grateful to our generous sponsors for their support.
 
 ## 🥇 Gold Sponsors
 
-| <img src="assets/img/logos/Element-Biosciences.png?raw=true" alt="Element Bioscience" width="200"> | <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/gold_sponsor2.png?raw=true" alt="PacBio" width="200"> | <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/Roche.jpg?raw=true" alt="Roche" width="200"> |
+| <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/Element-Biosciences.png?raw=true" alt="Element Bioscience" width="200"> | <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/gold_sponsor2.png?raw=true" alt="PacBio" width="200"> | <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/Roche.jpg?raw=true" alt="Roche" width="200"> |
 |:--:|:--:|:--:|
 | Element Bioscience | PacBio | Roche |
 
@@ -24,31 +24,31 @@ We are grateful to our generous sponsors for their support.
 
 ## 🥈 Silver Sponsors
 
-| <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/10X.png?raw=true" alt="10x Genomics" width="200"> | <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/Agilent.png?raw=true" alt="Agilent" width="200"> | <img src="assets/img/logos/Biomodal.png" alt="Biomodal" width="200"> |
+| <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/10X.png?raw=true" alt="10x Genomics" width="200"> | <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/Agilent.png?raw=true" alt="Agilent" width="200"> | <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/Biomodal.png?raw=true" alt="Biomodal" width="200"> |
 |:--:|:--:|:--:|
 | 10x Genomics | Agilent | Biomodal |
 
 ---
 
-| <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/DxNE.png?raw=true" alt="DxNE" width="200"> | <img src="assets/img/logos/DTG.png.png" alt="Dovetail" width="200"> | <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/Earlham-Institute.png?raw=true" alt="Earlham Institute" width="200"> |
+| <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/DxNE.png?raw=true" alt="DxNE" width="200"> | <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/DTG.png.png?raw=true" alt="Dovetail" width="200"> | <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/Earlham-Institute.png?raw=true" alt="Earlham Institute" width="200"> |
 |:--:|:--:|:--:|
 | DxNE | Dovetail | Earlham Institute  |
 
 ---
 
-| <img src="assets/img/logos/illumina.jpg" alt="Illumina" width="200"> | <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/NEB.jpg" alt="New England Biolabs" width="200"> | <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/silver_sponsor3.png" alt="ONT" width="200"> |
+| <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/illumina.jpg?raw=true" alt="Illumina" width="200"> | <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/NEB.jpg?raw=true" alt="New England Biolabs" width="200"> | <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/silver_sponsor3.png?raw=true" alt="ONT" width="200"> |
 |:--:|:--:|:--:|
 | Illumina | New England Biolabs | ONT |
 
 ---
 
-| <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/Parse.png" alt="ParseBio" width="200"> | <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/Takara.png" alt="Takara" width="200"> | <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/TwistBioscience.png" alt="Twist" width="200"> |
+| <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/Parse.png?raw=true" alt="ParseBio" width="200"> | <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/Takara.png?raw=true" alt="Takara" width="200"> | <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/TwistBioscience.png?raw=true" alt="Twist" width="200"> |
 |:--:|:--:|:--:|
 | ParseBio | Takara | Twist |
 
 ---
 
-| <img src="assets/img/logos/Yourgen_ Health.png" alt="Yourgene Health" width="200"> | 
+| <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/Yourgen_ Health.png?raw=true" alt="Yourgene Health" width="200"> | 
 |:--:|
 | Yourgene Health | 
 
@@ -56,7 +56,7 @@ We are grateful to our generous sponsors for their support.
 
 ## 🥉 Bronze Sponsors
 
-| <img src="assets/img/logos/Watchmaker_Logo_RGB_800px copy.png" alt="Watchmaker" width="200"> | <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/Scale-Bio.png" alt="Scale" width="200"> | <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/Vazyme.png" alt="Vazyme" width="200"> |
+| <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/Watchmaker_Logo_RGB_800px copy.png?raw=true" alt="Watchmaker" width="200"> | <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/Scale-Bio.png?raw=true" alt="Scale" width="200"> | <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/Vazyme.png?raw=true" alt="Vazyme" width="200"> |
 |:--:|:--:|:--:|
 | Watchmaker | Scale | Vazyme |
 
