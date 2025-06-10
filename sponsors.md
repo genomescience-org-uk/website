@@ -16,7 +16,7 @@ We are grateful to our generous sponsors for their support.
 
 ## 🥇 Gold Sponsors
 
-| <img src="assets/img/logos/Element-Biosciences.png" alt="Element Bioscience" width="200"> | <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/gold_sponsor2.png" alt="PacBio" width="200"> | <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/Roche.jpg" alt="Roche" width="200"> |
+| <img src="assets/img/logos/Element-Biosciences.png?raw=true" alt="Element Bioscience" width="200"> | <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/gold_sponsor2.png?raw=true" alt="PacBio" width="200"> | <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/Roche.jpg?raw=true" alt="Roche" width="200"> |
 |:--:|:--:|:--:|
 | Element Bioscience | PacBio | Roche |
 
