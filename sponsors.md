@@ -30,7 +30,7 @@ We are grateful to our generous sponsors for their support.
 
 ---
 
-| <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/DxNE.png?raw=true" alt="DxNE" width="200"> | <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/DTG.png?raw=true" alt="Dovetail" width="200"> | <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/Earlham-Institute.png?raw=true" alt="Earlham Institute" width="200"> |
+| <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/DxNE.png?raw=true" alt="DxNE" width="200"> | <img src="assets/img/logos/DTG.png.png" alt="Dovetail" width="200"> | <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/Earlham-Institute.png?raw=true" alt="Earlham Institute" width="200"> |
 |:--:|:--:|:--:|
 | DxNE | Dovetail | Earlham Institute  |
 
