@@ -48,7 +48,7 @@ We are grateful to our generous sponsors for their support.
 
 ---
 
-| <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/Yourgene_Health.png" alt="Yourgene Health" width="200"> | 
+| <img src="assets/img/logos/Yourgen_ Health.png" alt="Yourgene Health" width="200"> | 
 |:--:|
 | Yourgene Health | 
 
