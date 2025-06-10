@@ -56,7 +56,7 @@ We are grateful to our generous sponsors for their support.
 
 ## 🥉 Bronze Sponsors
 
-| <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/Watchmaker.png" alt="Watchmaker" width="200"> | <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/Scale-Bio.png" alt="Scale" width="200"> | <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/Vazyme.png" alt="Vazyme" width="200"> |
+| <img src="assets/img/logos/Watchmaker_Logo_RGB_800px copy.png" alt="Watchmaker" width="200"> | <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/Scale-Bio.png" alt="Scale" width="200"> | <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/Vazyme.png" alt="Vazyme" width="200"> |
 |:--:|:--:|:--:|
 | Watchmaker | Scale | Vazyme |
 
