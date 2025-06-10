@@ -24,27 +24,33 @@ We are grateful to our generous sponsors for their support.
 
 ## 🥈 Silver Sponsors
 
-| <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/silver_sponsor1.png" alt="Silver Sponsor 1" width="200"> | <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/silver_sponsor2.png" alt="Silver Sponsor 2" width="200"> | <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/silver_sponsor3.png" alt="Silver Sponsor 3" width="200"> |
+| <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/10X.png" alt="10x Genomics" width="200"> | <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/Agilent.png" alt="Agilent" width="200"> | <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/Bimodal.png" alt="Biomodal" width="200"> |
 |:--:|:--:|:--:|
-| Silver Sponsor 1 | Silver Sponsor 2 | Silver Sponsor 3 |
+| 10x Genomics | Agilent | Biomodal |
 
 ---
 
-| <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/silver_sponsor1.png" alt="Silver Sponsor 1" width="200"> | <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/silver_sponsor2.png" alt="Silver Sponsor 2" width="200"> | <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/silver_sponsor3.png" alt="Silver Sponsor 3" width="200"> |
+| <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/DxNE.png" alt="DxNE" width="200"> | <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/DTG.png" alt="Dovetail" width="200"> | <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/Earlham-Institute.png" alt="Earlham Institute" width="200"> |
 |:--:|:--:|:--:|
-| Silver Sponsor 1 | Silver Sponsor 2 | Silver Sponsor 3 |
+| DxNE | Dovetail | Earlham Institute  |
 
 ---
 
-| <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/silver_sponsor1.png" alt="Silver Sponsor 1" width="200"> | <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/silver_sponsor2.png" alt="Silver Sponsor 2" width="200"> | <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/silver_sponsor3.png" alt="Silver Sponsor 3" width="200"> |
+| <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/illumina.jpg" alt="Illumina" width="200"> | <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/NEB.jpg" alt="New England Biolabs" width="200"> | <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/silver_sponsor3.png" alt="ONT" width="200"> |
 |:--:|:--:|:--:|
-| Silver Sponsor 1 | Silver Sponsor 2 | Silver Sponsor 3 |
+| Illumina | New England Biolabs | ONT |
 
 ---
 
-| <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/silver_sponsor1.png" alt="Silver Sponsor 1" width="200"> | <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/silver_sponsor2.png" alt="Silver Sponsor 2" width="200"> | <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/silver_sponsor3.png" alt="Silver Sponsor 3" width="200"> |
+| <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/Parse.png" alt="ParseBio" width="200"> | <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/Takara.png" alt="Takara" width="200"> | <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/TwistBioscience.png" alt="Twist" width="200"> |
 |:--:|:--:|:--:|
-| Silver Sponsor 1 | Silver Sponsor 2 | Silver Sponsor 3 |
+| ParseBio | Takara | Twist |
+
+---
+
+| <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/Yourgene_Health.png" alt="Yourgene Health" width="200"> | 
+|:--:|
+| Yourgene Health | 
 
 ---
 
