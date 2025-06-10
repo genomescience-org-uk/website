@@ -16,7 +16,7 @@ We are grateful to our generous sponsors for their support.
 
 ## 🥇 Gold Sponsors
 
-| <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/Element-Biosciences.png" alt="Element Bioscience" width="200"> | <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/gold_sponsor2.png" alt="PacBio" width="200"> | <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/Roche.jpg" alt="Roche" width="200"> |
+| <img src="assets/img/logos/Element-Biosciences.png" alt="Element Bioscience" width="200"> | <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/gold_sponsor2.png" alt="PacBio" width="200"> | <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/Roche.jpg" alt="Roche" width="200"> |
 |:--:|:--:|:--:|
 | Element Bioscience | PacBio | Roche |
 
@@ -36,7 +36,7 @@ We are grateful to our generous sponsors for their support.
 
 ---
 
-| <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/illumina.jpg" alt="Illumina" width="200"> | <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/NEB.jpg" alt="New England Biolabs" width="200"> | <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/silver_sponsor3.png" alt="ONT" width="200"> |
+| <img src="assets/img/logos/illumina.jpg" alt="Illumina" width="200"> | <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/NEB.jpg" alt="New England Biolabs" width="200"> | <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/silver_sponsor3.png" alt="ONT" width="200"> |
 |:--:|:--:|:--:|
 | Illumina | New England Biolabs | ONT |
 
