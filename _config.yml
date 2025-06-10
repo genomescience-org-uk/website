@@ -30,9 +30,11 @@ navbar-links:
   Programme:
     - 2025 Programme : "speakers"
     - Previous meetings : "previous_meetings"
+    - Sponsors: "sponsors"
   Contact:
     - Register:  "contact"
     - Organising Committee: "organising_committee"
+    
 
   #Speakers and Programme:
     #- Keynote Speakers: "keynotes"
