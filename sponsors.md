@@ -24,7 +24,7 @@ We are grateful to our generous sponsors for their support.
 
 ## 🥈 Silver Sponsors
 
-| <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/10X.png?raw=true" alt="10x Genomics" width="200"> | <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/Agilent.png?raw=true" alt="Agilent" width="200"> | <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/Bimodal.png?raw=true" alt="Biomodal" width="200"> |
+| <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/10X.png?raw=true" alt="10x Genomics" width="200"> | <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/Agilent.png?raw=true" alt="Agilent" width="200"> | <img src="assets/img/logos/Biomodal.png" alt="Biomodal" width="200"> |
 |:--:|:--:|:--:|
 | 10x Genomics | Agilent | Biomodal |
 
