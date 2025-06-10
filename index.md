@@ -10,12 +10,13 @@ cover-img: https://github.com/genomescience-org-uk/website/blob/master/assets/im
 
 ## Welcome to Newcastle upon Tyne – Where Science Meets Culture.
 
-<a href="https://register.oxfordabstracts.com/event/74773" style="color:red; font-size:24px;" target="_blank">Early bird registration closure 16th May</a>
-
 <a href="https://app.oxfordabstracts.com/stages/77762/submissions/new?behalf=false&fromDashboard=false&preview=false&testSubmission=false" style="color:red; font-size:24px;" target="_blank">Abstract submission closure 23rd May</a>
+
+(still open for poster abstract submissions until 16th June)
 
 <a href="https://register.oxfordabstracts.com/event/74773" style="color:red; font-size:24px;" target="_blank">Registration closure 26th June</a>
 
+[Vist out sponsors](https://www.genomescience.org.uk/sponsors/) 
 
 Please join us at **Genome Science UK**, this summer at Newcastle University. This ever-popular genomic technologies and applications conference will be held at The Frederick Douglas Centre, from 9th - 11th July 2025. 
 
