@@ -24,13 +24,13 @@ We are grateful to our generous sponsors for their support.
 
 ## 🥈 Silver Sponsors
 
-| <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/10X.png" alt="10x Genomics" width="200"> | <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/Agilent.png" alt="Agilent" width="200"> | <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/Bimodal.png" alt="Biomodal" width="200"> |
+| <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/10X.png?raw=true" alt="10x Genomics" width="200"> | <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/Agilent.png?raw=true" alt="Agilent" width="200"> | <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/Bimodal.png?raw=true" alt="Biomodal" width="200"> |
 |:--:|:--:|:--:|
 | 10x Genomics | Agilent | Biomodal |
 
 ---
 
-| <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/DxNE.png" alt="DxNE" width="200"> | <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/DTG.png" alt="Dovetail" width="200"> | <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/Earlham-Institute.png" alt="Earlham Institute" width="200"> |
+| <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/DxNE.png?raw=true" alt="DxNE" width="200"> | <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/DTG.png?raw=true" alt="Dovetail" width="200"> | <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/Earlham-Institute.png?raw=true" alt="Earlham Institute" width="200"> |
 |:--:|:--:|:--:|
 | DxNE | Dovetail | Earlham Institute  |
 
@@ -56,9 +56,9 @@ We are grateful to our generous sponsors for their support.
 
 ## 🥉 Bronze Sponsors
 
-| <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/bronze_sponsor1.png" alt="Bronze Sponsor 1" width="200"> | <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/bronze_sponsor2.png" alt="Bronze Sponsor 2" width="200"> | <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/bronze_sponsor3.png" alt="Bronze Sponsor 3" width="200"> |
+| <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/Watchmaker.png" alt="Watchmaker" width="200"> | <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/Scale-Bio.png" alt="Scale" width="200"> | <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/Vazyme.png" alt="Vazyme" width="200"> |
 |:--:|:--:|:--:|
-| Bronze Sponsor 1 | Bronze Sponsor 2 | Bronze Sponsor 3 |
+| Watchmaker | Scale | Vazyme |
 
 ---
 
