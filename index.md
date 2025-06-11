@@ -16,7 +16,7 @@ cover-img: https://github.com/genomescience-org-uk/website/blob/master/assets/im
 
 <a href="https://register.oxfordabstracts.com/event/74773" style="color:red; font-size:24px;" target="_blank">Registration closure 26th June</a>
 
-[Visit out sponsors](https://www.genomescience.org.uk/sponsors/) 
+[Visit our sponsors](https://www.genomescience.org.uk/sponsors/) 
 
 Please join us at **Genome Science UK**, this summer at Newcastle University. This ever-popular genomic technologies and applications conference will be held at The Frederick Douglas Centre, from 9th - 11th July 2025. 
 
