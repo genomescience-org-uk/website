@@ -16,7 +16,7 @@ We are grateful to our generous sponsors for their support.
 
 ## 🥇 Gold Sponsors
 
-| <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/Element-Biosciences.png?raw=true" alt="Element Bioscience" width="200"> | <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/gold_sponsor2.png?raw=true" alt="PacBio" width="200"> | <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/Roche.jpg?raw=true" alt="Roche" width="200"> |
+| <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/Element-Biosciences.png?raw=true" alt="Element Bioscience" width="200"> | <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/PacBio_RGB.tif?raw=true" alt="PacBio" width="200"> | <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/Roche.jpg?raw=true" alt="Roche" width="200"> |
 |:--:|:--:|:--:|
 | Element Bioscience | PacBio | Roche |
 
@@ -36,7 +36,7 @@ We are grateful to our generous sponsors for their support.
 
 ---
 
-| <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/illumina.jpg?raw=true" alt="Illumina" width="200"> | <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/NEB.jpg?raw=true" alt="New England Biolabs" width="200"> | <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/silver_sponsor3.png?raw=true" alt="ONT" width="200"> |
+| <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/illumina.jpg?raw=true" alt="Illumina" width="200"> | <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/NEB.jpg?raw=true" alt="New England Biolabs" width="200"> | <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/Oxford_Nanopore.png?raw=true" alt="ONT" width="200"> |
 |:--:|:--:|:--:|
 | Illumina | New England Biolabs | ONT |
 
