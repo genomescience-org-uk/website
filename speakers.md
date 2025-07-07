@@ -81,8 +81,8 @@ bigimg: /assets/img/Quayside_4_Credit_Visit_England.jpg
 | ----------- | ------------------------------------------------------- | --------------------------------------- |
 | 09:20-11:00 | **Evolutionary Genomics**  | Chair: Matt Loose (University of Birmingham) | 
 | 09:20-11:00 | The Future of Exponentially Scalable Single Cell-omics  | Sponsor Talk - ParseBio<br> (Ryan Wall) |
-| 09:30       | Cycles of centromere evolution | Ian Henderson (university of Cambridge) |
-| 09:55       | Hanging on the Tree of Life: Sequencing All Life and the Genomic Impact of Jumping Elements in Sloths. |  (Wellcome Sanger Institute) |
+| 09:30       | Cycles of centromere evolution | Ian Henderson (University of Cambridge) |
+| 09:55       | Hanging on the Tree of Life: Sequencing All Life and the Genomic Impact of Jumping Elements in Sloths. | Marcela Uliano-Silva  (Wellcome Sanger Institute) |
 | 10:20       | High-Resolution Mapping of Bacterial Evolution Under Antibiotic Stress Using Single-Cell Whole-Genome Sequencing | Matt Bawn (Newcastle University) |
 | 10:35       | Testing the regulatory effects of indels and structural variants using massively parallel reporter assays | Lindsey Plenderleith (The University of Edinburgh) |
 
