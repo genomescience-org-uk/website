@@ -79,33 +79,33 @@ bigimg: /assets/img/Quayside_4_Credit_Visit_England.jpg
 
 | Time        | Title                                                   | Presenter                               |
 | ----------- | ------------------------------------------------------- | --------------------------------------- |
-| 09:20-11:00 | **Evolutionary Genomics**  | Chair: Matt Loose (University of Birmingham) | Sponsor Talk - ParseBio<br> (Ryan Wall) |
+| 09:20-11:00 | **Evolutionary Genomics**  | Chair: Matt Loose (University of Birmingham) | 
+| 09:20-11:00 | The Future of Exponentially Scalable Single Cell-omics  | Sponsor Talk - ParseBio<br> (Ryan Wall) |
 | 09:30       | Cycles of centromere evolution | Ian Henderson (university of Cambridge) |
 | 09:55       | Hanging on the Tree of Life: Sequencing All Life and the Genomic Impact of Jumping Elements in Sloths. |  (Wellcome Sanger Institute) |
 | 10:20       | High-Resolution Mapping of Bacterial Evolution Under Antibiotic Stress Using Single-Cell Whole-Genome Sequencing | Matt Bawn (Newcastle University) |
 | 10:35       | Testing the regulatory effects of indels and structural variants using massively parallel reporter assays | Lindsey Plenderleith (The University of Edinburgh) |
-| 10:50 |  |  |
-| 11:00-11:30 | |
+
+| 11:00-11:30 | Coffee Break |
 | 11:30-13:00 | **Microbial Genomics**  | Chair: Lauren Cowley (University of Bath) |
 | 11:30       | Accurate detection of small non-coding RNAs using NEBNext Low-bias Small RNA Library Prep Kit | Sponsor Talk - New England BioLabs<br>(Louise Williams) |
 | 11:40       | Spatially-resolved host-pathogen interactions across the lung | Josie Bryant (Wellcome Sanger Institute) |
 | 12:05       | Pathogen Genomics in Maternal and Neonatal Health: Informing Targeted Interventions for Better Outcomes | Elita Jauneikaite - (Imperial College London) |
 | 12:30  | Genomic epidemiology of plasmids carrying the iuc5 locus and antimicrobial resistance genes in Escherichia coli and Klebsiella pneumoniae from One Health settings | Keira Cozens (University of Bath) |
 | 12:45  | PyamilySeq: Transparent and interpretable gene (re)clustering and pangenomic inference highlights the fragility of conventional methods.  | Nicholas Dimonaco (Queen's University Belfast) |
-| 13:00-14:00 | |
+| 13:00-14:00 | Photo, Lunch and Poster Session II  |
 | 14:00-15:30 | **Microbial Communities & Microbiome**  | Chair: Nick Loman (University of Birmingham) |
 | 14:00       | Empowering Discovery: Agilent’s Integrated Genomics Solutions for the Future of Precision Science  | Sponsor Talk - Agilent |
 | 14:10       | Resolving MAGs from complex microbiomes with long reads  | Chris Quince (Earlham Institute)                                    |
 | 14:35       | Making the most of microbiome biobanks: Enabling Cross-Cohort and Multi-Kingdom Analyses  | Greg Young (Newcastle University) |
 | 14:50       | Beyond Taxonomic Composition: Metagenomic Evidence for Functional Niche Displacement in the Rumen Microbiome. | Katie Lawther  (Queen's University Belfast) |
 | 15:05       | Metagenomics opportunties   | Justin O'Grady(University of East Anglia)  |
-| 15:20-16:00 | | |
+| 15:20-16:00 | Coffee Break |
 | 16:00-17:30 | **Human & Clinical Genomics**   | Chair: Katherine Johnson (Newcastle University) |
 | 16:00       | Rapid genomic sequencing: Where are we and where are we going   | Andy Parrish (The Exeter Genomics Laboratory) |
 | 16:25       | The Generation Study: Insights from the first year | Katie Handley (Genomics England)  |
 | 16:50       | Investigating mitochondrial DNA replication dynamics using thymidine analogues and ONT long read sequencing.  | Katja Menger (Newcastle University) |
-| 17:05       | RNA Polymerase Slippage as a Mechanism of Disease  | Nadia Akawi (Wellcome Sanger Institute)  |
-| 17:20       | Size Matters - Enhance your long-read sequencing data and yields  | Sponsor Talk - Yourgene Health  |
+| 17:05       | Size Matters - Enhance your long-read sequencing data and yields  | Sponsor Talk - Yourgene Health  |
 
 ### **Conference Dinner**
 
