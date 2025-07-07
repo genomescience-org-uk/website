@@ -45,7 +45,7 @@ bigimg: /assets/img/Quayside_4_Credit_Visit_England.jpg
 
 | Time        | Title                                                   | Presenter                               |
 | ----------- | ------------------------------------------------------- | --------------------------------------- |
-| 09:20-11:00 | **Plant and Animal Genomics**   | Chair: Al Darby  |
+| 09:20-11:00 | **Plant and Animal Genomics**   | Chair: Al Darby (University of Liverpool)  |
 | 09:20       | Decoding multiple layers of Genomics using Twist Bioscience | Sponsor Talk (Twist) |
 | 09:30       | Wheat Pan Genomics | Antony Hall (Earlham Institute) |
 | 09:55       | Fly genomes and transposable element invasions  | Andrea Betancourt (University of Liverpool)  |
@@ -56,12 +56,12 @@ bigimg: /assets/img/Quayside_4_Credit_Visit_England.jpg
 
 | 11:30-13:00 | **Spatial Genomics**  | Chair: Iain Macaulay (Earlham Institute) |
 | 11:30       | Enabling Spatial Omics at true single-cell resolution | Sponsor Talk - Matthieu Pesant (Takara Bio Europe) |
-| 11:40       | Spatial transcriptomics of developing flowers across time | Christobal Uauy                           |
+| 11:40       | Spatial transcriptomics of developing flowers across time | Christobal Uauy (John Innes Centre)                          |
 | 12:05       | A Longer Look: Benchmarking Long-Read Sequencing for Single-cell Tanscriptomics | Anita Scoones (Earlham Institute)|
 | 12:30       | Spatiotemporal and Single-cell Sequencing of chicken trachea reveals differences in host Responses after Vaccination with Pathogenic and Attenuated Infectious Bronchitis Virus (IBV) | Graham Freimanis (The Pirbright Institute) |
 | 12:45       | Introducing Illumina Spatial Technology | Sponsor Talk - Illumina <br>(Andrew Slatter) |
 | 13:00-14:00 | Photo, Lunch and Poster Session II  |
-| 14:00-15:30 | **Epigenetics/Human & Clinical Genomics** | Chair: Ania Piskorz (CRUK) |
+| 14:00-15:30 | **Epigenetics/Human & Clinical Genomics** | Chair: Ania Piskorz (CRUK Cambridge) |
 | 14:00       | “NGS: What are you missing?” | Sponsor Talk - Miles Collier (Dovetail)  |
 | 14:10       | Towards multi-modal liquid biopsies | Florent Mouliere (The University of Manchester)  |
 | 14:35       | Barcoded ultra-long read sequencing for genetic exploration of cancer samples | Joe Fenwick (Newcastle University) |
@@ -79,32 +79,32 @@ bigimg: /assets/img/Quayside_4_Credit_Visit_England.jpg
 
 | Time        | Title                                                   | Presenter                               |
 | ----------- | ------------------------------------------------------- | --------------------------------------- |
-| 09:20-11:00 | **Evolutionary Genomics**  | Chair: Matt Loose | Sponsor Talk - ParseBio<br>Ryan Wall |
-| 09:30       | Cycles of centromere evolution | Ian Henderson  |
-| 09:55       | Hanging on the Tree of Life: Sequencing All Life and the Genomic Impact of Jumping Elements in Sloths. | Marcela Uliano-Silva |
-| 10:20       | High-Resolution Mapping of Bacterial Evolution Under Antibiotic Stress Using Single-Cell Whole-Genome Sequencing | Matt Bawn |
-| 10:35       | Testing the regulatory effects of indels and structural variants using massively parallel reporter assays | Lindsey Plenderleith |
+| 09:20-11:00 | **Evolutionary Genomics**  | Chair: Matt Loose (University of Birmingham) | Sponsor Talk - ParseBio<br> (Ryan Wall) |
+| 09:30       | Cycles of centromere evolution | Ian Henderson (university of Cambridge) |
+| 09:55       | Hanging on the Tree of Life: Sequencing All Life and the Genomic Impact of Jumping Elements in Sloths. |  (Wellcome Sanger Institute) |
+| 10:20       | High-Resolution Mapping of Bacterial Evolution Under Antibiotic Stress Using Single-Cell Whole-Genome Sequencing | Matt Bawn (Newcastle University) |
+| 10:35       | Testing the regulatory effects of indels and structural variants using massively parallel reporter assays | Lindsey Plenderleith (The University of Edinburgh) |
 | 10:50 |  |  |
 | 11:00-11:30 | |
-| 11:30-13:00 | **Microbial Genomics**  | Chair: Lauren Cowley  |
-| 11:30       | Accurate detection of small non-coding RNAs using NEBNext Low-bias Small RNA Library Prep Kit | Sponsor Talk - New England BioLabs<br>Louise Williams |
-| 11:40       | Spatially-resolved host-pathogen interactions across the lung | Josie Bryant - Sanger |
-| 12:05       | Pathogen Genomics in Maternal and Neonatal Health: Informing Targeted Interventions for Better Outcomes | Elita Jauneikaite - Imperial |
-| 12:30  | Genomic epidemiology of plasmids carrying the iuc5 locus and antimicrobial resistance genes in Escherichia coli and Klebsiella pneumoniae from One Health settings | Keira Cozens  |
-| 12:45  | PyamilySeq: Transparent and interpretable gene (re)clustering and pangenomic inference highlights the fragility of conventional methods.  | Nicholas Dimonaco |
+| 11:30-13:00 | **Microbial Genomics**  | Chair: Lauren Cowley (University of Bath) |
+| 11:30       | Accurate detection of small non-coding RNAs using NEBNext Low-bias Small RNA Library Prep Kit | Sponsor Talk - New England BioLabs<br>(Louise Williams) |
+| 11:40       | Spatially-resolved host-pathogen interactions across the lung | Josie Bryant (Wellcome Sanger Institute) |
+| 12:05       | Pathogen Genomics in Maternal and Neonatal Health: Informing Targeted Interventions for Better Outcomes | Elita Jauneikaite - (Imperial College London) |
+| 12:30  | Genomic epidemiology of plasmids carrying the iuc5 locus and antimicrobial resistance genes in Escherichia coli and Klebsiella pneumoniae from One Health settings | Keira Cozens (University of Bath) |
+| 12:45  | PyamilySeq: Transparent and interpretable gene (re)clustering and pangenomic inference highlights the fragility of conventional methods.  | Nicholas Dimonaco (Queen's University Belfast) |
 | 13:00-14:00 | |
-| 14:00-15:30 | **Microbial Communities & Microbiome**  | Chair: Nick Loman  |
+| 14:00-15:30 | **Microbial Communities & Microbiome**  | Chair: Nick Loman (University of Birmingham) |
 | 14:00       | Empowering Discovery: Agilent’s Integrated Genomics Solutions for the Future of Precision Science  | Sponsor Talk - Agilent |
 | 14:10       | Resolving MAGs from complex microbiomes with long reads  | Chris Quince (Earlham Institute)                                    |
-| 14:35       | Making the most of microbiome biobanks: Enabling Cross-Cohort and Multi-Kingdom Analyses  | Greg Young  |
-| 14:50       | Beyond Taxonomic Composition: Metagenomic Evidence for Functional Niche Displacement in the Rumen Microbiome. | Katie Lawther   |
-| 15:05       | tbc   | Justin O'Grady - EIT  |
+| 14:35       | Making the most of microbiome biobanks: Enabling Cross-Cohort and Multi-Kingdom Analyses  | Greg Young (Newcastle University) |
+| 14:50       | Beyond Taxonomic Composition: Metagenomic Evidence for Functional Niche Displacement in the Rumen Microbiome. | Katie Lawther  (Queen's University Belfast) |
+| 15:05       | Metagenomics opportunties   | Justin O'Grady(University of East Anglia)  |
 | 15:20-16:00 | | |
-| 16:00-17:30 | **Human & Clinical Genomics**   | Chair: Katherine Johnson  |
-| 16:00       | Rapid genomic sequencing: Where are we and where are we going   | Andy Parrish |
-| 16:25       | The Generation Study: Insights from the first year | Katie Handley - Genomics England  |
-| 16:50       | Investigating mitochondrial DNA replication dynamics using thymidine analogues and ONT long read sequencing.  | Katja Menger |
-| 17:05       | RNA Polymerase Slippage as a Mechanism of Disease  | Nadia Akawi  |
+| 16:00-17:30 | **Human & Clinical Genomics**   | Chair: Katherine Johnson (Newcastle University) |
+| 16:00       | Rapid genomic sequencing: Where are we and where are we going   | Andy Parrish (The Exeter Genomics Laboratory) |
+| 16:25       | The Generation Study: Insights from the first year | Katie Handley (Genomics England)  |
+| 16:50       | Investigating mitochondrial DNA replication dynamics using thymidine analogues and ONT long read sequencing.  | Katja Menger (Newcastle University) |
+| 17:05       | RNA Polymerase Slippage as a Mechanism of Disease  | Nadia Akawi (Wellcome Sanger Institute)  |
 | 17:20       | Size Matters - Enhance your long-read sequencing data and yields  | Sponsor Talk - Yourgene Health  |
 
 ### **Conference Dinner**
@@ -121,11 +121,11 @@ The Magpie Suite, St James' Park - Newcastle United Football Club
 | 08:30-09:15 | Coffee & Pastries                                                                                                  |
 | 09:15-11:05 | **New Methods in Genomics**  | Co-chairs: Sally James, Iain Macaulay |
 | 9:15        |    | Sponsor Talk - Element  |
-| 9:30        | Towards nanopore proteomics: Single-molecule detection of post-translational modifications on full-length proteins | Yujia Qing  |
-| 9:55  | Leveraging single-cell long-read sequencing and machine learning for therapeutic target identification  | Adam Cribbs - University of Oxford  |
-| 10:20  | Revealing mechanisms of chemo-resistance and sensitisation with next generation lineage tracing technologies   | Kirsty Sawicka - CRUK Cambridge  |
+| 9:30        | Towards nanopore proteomics: Single-molecule detection of post-translational modifications on full-length proteins | Yujia Qing (University of Oxford) |
+| 9:55  | Leveraging single-cell long-read sequencing and machine learning for therapeutic target identification  | Adam Cribbs (University of Oxford)  |
+| 10:20  | Revealing mechanisms of chemo-resistance and sensitisation with next generation lineage tracing technologies   | Kirsty Sawicka (CRUK Cambridge)  |
 | 10:45 | Reveal the power of the 6-base genome  | Sponsor Talk - Biomodal |
 | 11:00-11:30 | Coffee break   |
-| 11:30-12:30 | **Keynotes**   | Chair: Jonathan Coxhead  |
-| 11:30       | Shining a light on the dark genome  | Wendy Bickmore - University of Edinburgh   |
+| 11:30-12:30 | **Keynotes**   | Chair: Jonathan Coxhead (Newcastle University)  |
+| 11:30       | Shining a light on the dark genome  | Wendy Bickmore (University of Edinburgh)   |
 | 12:15       | Lunch & end  |
