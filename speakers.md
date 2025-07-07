@@ -99,7 +99,7 @@ bigimg: /assets/img/Quayside_4_Credit_Visit_England.jpg
 | 14:10       | Resolving MAGs from complex microbiomes with long reads  | Chris Quince (Earlham Institute)                                    |
 | 14:35       | Making the most of microbiome biobanks: Enabling Cross-Cohort and Multi-Kingdom Analyses  | Greg Young (Newcastle University) |
 | 14:50       | Beyond Taxonomic Composition: Metagenomic Evidence for Functional Niche Displacement in the Rumen Microbiome. | Katie Lawther  (Queen's University Belfast) |
-| 15:05       | Metagenomics opportunties   | Justin O'Grady(University of East Anglia)  |
+| 15:05       | Perspectives on applying metagenomics to infectious disease diagnostics and monitoring   | Justin O'Grady (Ellison Institute of Technology)  |
 | 15:20-16:00 | Coffee Break |
 | 16:00-17:30 | **Human & Clinical Genomics**   | Chair: Katherine Johnson (Newcastle University) |
 | 16:00       | Rapid genomic sequencing: Where are we and where are we going   | Andy Parrish (The Exeter Genomics Laboratory) |
