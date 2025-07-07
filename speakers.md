@@ -126,6 +126,6 @@ The Magpie Suite, St James' Park - Newcastle United Football Club
 | 10:20  | Revealing mechanisms of chemo-resistance and sensitisation with next generation lineage tracing technologies   | Kirsty Sawicka (CRUK Cambridge)  |
 | 10:45 | Reveal the power of the 6-base genome  | Sponsor Talk - Biomodal |
 | 11:00-11:30 | Coffee break   |
-| 11:30-12:00 | **Keynotes**   | Chair: Jonathan Coxhead (Newcastle University)  |
+| 11:30-12:15 | **Keynotes**   | Chair: Jonathan Coxhead (Newcastle University)  |
 | 11:30       | Shining a light on the dark genome  | Wendy Bickmore (University of Edinburgh)   |
 | 12:15       | Lunch & end  |
