@@ -57,8 +57,7 @@ bigimg: /assets/img/Quayside_4_Credit_Visit_England.jpg
 | 11:30-13:00 | **Spatial Genomics**  | Chair: Iain Macaulay (Earlham Institute) |
 | 11:30       | Enabling Spatial Omics at true single-cell resolution | Sponsor Talk - Matthieu Pesant (Takara Bio Europe) |
 | 11:40       | Spatial transcriptomics of developing flowers across time | Christobal Uauy                           |
-| 12:05       | A Longer Look: Benchmarking Long-Read Sequencing for
-Single-cell Tanscriptomics | Anita Scoones (Earlham Institute)|
+| 12:05       | A Longer Look: Benchmarking Long-Read Sequencing for Single-cell Tanscriptomics | Anita Scoones (Earlham Institute)|
 | 12:30       | Spatiotemporal and Single-cell Sequencing of chicken trachea reveals differences in host Responses after Vaccination with Pathogenic and Attenuated Infectious Bronchitis Virus (IBV) | Graham Freimanis (The Pirbright Institute) |
 | 12:45       | Introducing Illumina Spatial Technology | Sponsor Talk - Illumina <br>(Andrew Slatter) |
 | 13:00-14:00 | Photo, Lunch and Poster Session II  |
@@ -74,7 +73,7 @@ Single-cell Tanscriptomics | Anita Scoones (Earlham Institute)|
 | 16:25       | Machine Learning and AI approaches for understanding Prokaryotic Pangenomes | James McInerney (University of Liverpool) |
 | 16:50       | Accurate bioinformatic host pangenome depletion using fast minimizer search | Bede Constantinides (University of Birmingham)  |
 | 17:05       | Ultra-long Sequencing Reveals Structural Heterogeneity of Common Dicentric Chromosomes in Childhood Cancer | Eleanor Woodward (Newcastle University)|
-| 17:20       | Technology Platforms at the Earlham Institute: Research, Collaboration and Service  | Sponsor Talk - Alex McNeil(Earlham Institute) |
+| 17:20       | Technology Platforms at the Earlham Institute: Research, Collaboration and Service  | Sponsor Talk - Alex McNeil (Earlham Institute) |
 
 ### **Parallel Session B - G.06**
 
