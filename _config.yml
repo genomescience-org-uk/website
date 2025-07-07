@@ -21,9 +21,10 @@ author: Genome Science UK
 
 navbar-links:
   Home: "index"
-  Registration & Abstracts:
-    - Register: "register"
-    - Abstract Submission: "abstract"  
+  Abstract booklet: "abstract_booklet"
+  #Registration & Abstracts:
+  #  - Register: "register"
+  #  - Abstract Submission: "abstract"  
   Venue & Travel: "venue"
   #Accommodation: "<a href='https://ngcb.hotelplanner.com/Event/79b5/' target='_blank'>Accommodation</a>"
   Accommodation: accomodation
