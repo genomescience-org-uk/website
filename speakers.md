@@ -21,13 +21,13 @@ bigimg: /assets/img/Quayside_4_Credit_Visit_England.jpg
 | 13:30-14:30 | **Keynotes**                                            | Chair: Nick Loman (University of Birmingham)  |
 | 13:30       | Francis Crick, the father of genomics and phylogenetics | Matthew Cobb (University of Manchester) |
 | 14:00       | Rapid intraoperative diagnostics of CSF tumours         | Matt Loose (University of Nottingham)   |
-| 14:30-16:00 | **Evolving Technologies 1**    | Chair: Michael Quail (UCL)                  |
+| 14:30-16:00 | **Evolving Technologies 1**    | Chair: Michael Quail (Wellcome Sanger Institute)                  |
 | 14:30       | Driving the multiomics revolution: The latest innovations from Illumina  | Oliver Miller (Illumina) |
 | 14:50       |                                      | Rachel Piddock (Element Biosciences)    |
 | 15:10       | From big dreams to real possibilities…     | Dan Fordham  (Oxford Nanopore Technologies)  |
 | 15:30       | Innovation across the technology spectrum  | Neil Ward (PacBio)  |
 | 16:00-16:30 | Coffee Break  |
-| 16:30-17:50 | **Evolving Technologies 2**                                 | Chair: Michael Quail (UCL)                   |
+| 16:30-17:50 | **Evolving Technologies 2**                                 | Chair: Michael Quail (Wellcome Sanger Institute) |
 | 16:30       | Access the Full Richness of Biological Complexity with New Single Cell and Spatial tools from 10X Genomics                                           | Nicola Cahill (10X Genomics)  |
 | 16:50       |                                                  | Kevin Dunne (Ultima)   |
 | 17:10       |                                      | Johan Stroemqvist (Single Technologies)   |
@@ -79,7 +79,7 @@ bigimg: /assets/img/Quayside_4_Credit_Visit_England.jpg
 
 | Time        | Title                                                   | Presenter                               |
 | ----------- | ------------------------------------------------------- | --------------------------------------- |
-| 09:20-10:50 | **Evolutionary Genomics**  | Chair: Matt Loose (University of Birmingham) | 
+| 09:20-10:50 | **Evolutionary Genomics**  | Chair: Matt Loose (University of Nottingham) | 
 | 09:20       | The Future of Exponentially Scalable Single Cell-omics  | Sponsor Talk - ParseBio<br> (Ryan Wall) |
 | 09:30       | Cycles of centromere evolution | Ian Henderson (University of Cambridge) |
 | 09:55       | Hanging on the Tree of Life: Sequencing All Life and the Genomic Impact of Jumping Elements in Sloths. | Marcela Uliano-Silva  (Wellcome Sanger Institute) |
@@ -88,7 +88,7 @@ bigimg: /assets/img/Quayside_4_Credit_Visit_England.jpg
 
 | 11:00-11:30 | Coffee Break |
 | 11:30-13:00 | **Microbial Genomics**  | Chair: Lauren Cowley (University of Bath) |
-| 11:30       | Accurate detection of small non-coding RNAs using NEBNext Low-bias Small RNA Library Prep Kit | Sponsor Talk - New England BioLabs<br>(Louise Williams) |
+| 11:30       | Accurate detection of small non-coding RNAs using NEBNext Low-bias Small RNA Library Prep Kit | Sponsor Talk - New England BioLabs<br> |
 | 11:40       | Spatially-resolved host-pathogen interactions across the lung | Josie Bryant (Wellcome Sanger Institute) |
 | 12:05       | Pathogen Genomics in Maternal and Neonatal Health: Informing Targeted Interventions for Better Outcomes | Elita Jauneikaite - (Imperial College London) |
 | 12:30  | Genomic epidemiology of plasmids carrying the iuc5 locus and antimicrobial resistance genes in Escherichia coli and Klebsiella pneumoniae from One Health settings | Keira Cozens (University of Bath) |
@@ -126,6 +126,6 @@ The Magpie Suite, St James' Park - Newcastle United Football Club
 | 10:20  | Revealing mechanisms of chemo-resistance and sensitisation with next generation lineage tracing technologies   | Kirsty Sawicka (CRUK Cambridge)  |
 | 10:45 | Reveal the power of the 6-base genome  | Sponsor Talk - Biomodal |
 | 11:00-11:30 | Coffee break   |
-| 11:30-12:15 | **Keynotes**   | Chair: Jonathan Coxhead (Newcastle University)  |
+| 11:30-12:15 | **Keynotes**   | Chair: Michael Quail (Wellcome Sanger Institute)  |
 | 11:30       | Shining a light on the dark genome  | Wendy Bickmore (University of Edinburgh)   |
 | 12:15       | Lunch & end  |
