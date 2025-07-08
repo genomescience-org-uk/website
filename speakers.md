@@ -23,15 +23,15 @@ bigimg: /assets/img/Quayside_4_Credit_Visit_England.jpg
 | 14:00       | Rapid intraoperative diagnostics of CSF tumours         | Matt Loose (University of Nottingham)   |
 | 14:30-16:00 | **Evolving Technologies 1**    | Chair: Michael Quail (Wellcome Sanger Institute)                  |
 | 14:30       | Driving the multiomics revolution: The latest innovations from Illumina  | Oliver Miller (Illumina) |
-| 14:50       |                                      | Rachel Piddock (Element Biosciences)    |
+| 14:50       | High-Dimensional Biology: Advancing Single-Cell and Spatial Multiomics with AVITI24TM  | Rachel Piddock (Element Biosciences)    |
 | 15:10       | From big dreams to real possibilities…     | Dan Fordham  (Oxford Nanopore Technologies)  |
 | 15:30       | Innovation across the technology spectrum  | Neil Ward (PacBio)  |
 | 16:00-16:30 | Coffee Break  |
 | 16:30-17:50 | **Evolving Technologies 2**                                 | Chair: Michael Quail (Wellcome Sanger Institute) |
 | 16:30       | Access the Full Richness of Biological Complexity with New Single Cell and Spatial tools from 10X Genomics                                           | Nicola Cahill (10X Genomics)  |
-| 16:50       |                                                  | Kevin Dunne (Ultima)   |
-| 17:10       |                                      | Johan Stroemqvist (Single Technologies)   |
-| 17:30       |                                                    | Bernd Timmermann  (Roche)  |
+| 16:50       | Low cost, high accuracy sequencing from Ultima Genomics | Alex Watkins (Ultima)   |
+| 17:10       | Next Evolution in Sequencing: Volumetric DNA Sequencing in Solution and Cells  | Johan Stroemqvist (Single Technologies)   |
+| 17:30       | Sequencing by Expansion (SBX), a versatile, high-throughput single-molecule sequencing technology for a variety of applications  | Bernd Timmermann  (Roche)  |
 | 18:00-19:30 | **Drinks Reception and Posters**                            |
 
 ## Thursday 10th July 2025
@@ -69,7 +69,7 @@ bigimg: /assets/img/Quayside_4_Credit_Visit_England.jpg
 | 15:05| | Sponsor Talk - Riki Aydeniz (PacBio) |
 | 15:20-16:00 | Coffee Break |
 | 16:00-17:30 | **Computational Biology**  | Chair: Sion Bayliss (University of Bristol) |
-| 16:00       | Using rearrangement distances and historical samples to study plasmid evolution and epidemiology | Zamin Iqbal (EMBL-EBI)|
+| 16:00       | Using rearrangement distances and historical samples to study plasmid evolution and epidemiology | Zamin Iqbal (University of Bath)|
 | 16:25       | Machine Learning and AI approaches for understanding Prokaryotic Pangenomes | James McInerney (University of Liverpool) |
 | 16:50       | Accurate bioinformatic host pangenome depletion using fast minimizer search | Bede Constantinides (University of Birmingham)  |
 | 17:05       | Ultra-long Sequencing Reveals Structural Heterogeneity of Common Dicentric Chromosomes in Childhood Cancer | Eleanor Woodward (Newcastle University)|
