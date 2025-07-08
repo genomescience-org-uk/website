@@ -11,7 +11,7 @@ bigimg: /assets/img/Quayside_4_Credit_Visit_England.jpg
 
 # Programme
 
-[Wednesday](#Wednesday-9th-July-2025) | [Thursday](#Thursday-10th-July-2025) | [Friday](#Friday-11th-July-2025)
+[Wednesday](#wednesday-9th-july-2025) | [Thursday](#thursday-10th-july-2025) | [Friday](#friday-11th-july-2025)
 
 ## Wednesday 9th July 2025
 
