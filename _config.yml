@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Genome Science UK Conference 2025 - Newcastle
+title: Genome Science UK Conference 2026 - University of Manchester
 
 # Your name to show in the footer
 author: Genome Science UK
@@ -21,20 +21,20 @@ author: Genome Science UK
 
 navbar-links:
   Home: "index"
-  Abstract booklet: "abstract_booklet"
+  #Abstract booklet: "abstract_booklet"
   #Registration & Abstracts:
   #  - Register: "register"
   #  - Abstract Submission: "abstract"  
-  Venue & Travel: "venue"
+  #Venue & Travel: "venue"
   #Accommodation: "<a href='https://ngcb.hotelplanner.com/Event/79b5/' target='_blank'>Accommodation</a>"
-  Accommodation: accomodation
+  #Accommodation: accomodation
   Programme:
-    - 2025 Programme : "speakers"
+  #  - 2025 Programme : "speakers"
     - Previous meetings : "previous_meetings"
-    - Sponsors: "sponsors"
-  Contact:
-    - Register:  "contact"
-    - Organising Committee: "organising_committee"
+  #  - Sponsors: "sponsors"
+  #Contact:
+  #  - Register:  "contact"
+  #  - Organising Committee: "organising_committee"
     
 
   #Speakers and Programme:
