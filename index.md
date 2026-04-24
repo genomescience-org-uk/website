@@ -2,7 +2,7 @@
 layout: post
 title: Genome Science UK 2026
 subtitle: Manchester University
-cover-img: https://github.com/genomescience-org-uk/website/blob/master/assets/img/manchester.jpg
+cover-img: /assets/img/manchester.jpg
 ---
 
 ## Welcome to Manchester!
