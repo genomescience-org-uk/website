@@ -17,19 +17,26 @@ Please join us at **Genome Science UK 2026**. This ever-popular genomic technolo
 
 ### Keynotes
 
-- Samra Turajlić, CRUK Manchester
-- Bjarni Halldorsson, deCODE
-
+- Samra Turajlić, CRUK Manchester Institute
+- Dario Bressan, CRUK Cambridge Institute
+- Bjarni Halldorsson, deCODE 
+ 
 ### Session speakers
 
+- Bill Newman, Manchester Centre for Genomic Medicine
+- Saskia Sanderson, King's College London
 - Johan Henriksson, Umeå University
 - Andrew Beggs, University of Birmingham
-- Alexander Sang-Jae Suh, Max Planck Institute
-- John Lees, EMBL-EBI
-- Sarah Ennis, Southampton
 - Paul Kaye, University of York
-- Sophie Nixon, University of Manchester
+- Aimee Parker, Quadram Institute
 - Joao Pedro Magalhaes, University of Birmingham
+- Richard Mair, CRUK Cambridge Institute
+- John Lees, EMBL-EBI
+- Sarah Ennis, University of Southampton
+- Alexander Sang-Jae Suh, Max Planck Institute
+- Vicky Hunt, University of Bath
+- Sophie Nixon, University of Manchester
+- Philip Ashton, University of Oxford
 
 ### Technology sessions
 
@@ -39,19 +46,20 @@ Please join us at **Genome Science UK 2026**. This ever-popular genomic technolo
 - Roche
 - Ultima Genomics
 - Element Biosciences
+- DNAe
 
 ### Sessions
 
 - Human & Clinical Genomics
+- Single Cell Genomics
 - Spatial Genomics
-- Epigenetics
+- Cancer & Ageing
+- Computational Biology and AI
+- Plant and Animal Genomics
 - Microbial Genomics
-- Evolutionary Genomics
-- Plant & Animal Genomics
-- Computational Biology
-- Microbial Communities & Microbiome
-- New Methods in Genomics
-
+- Microbial Communities & The Microbiome
+- Evolutionary (Microbial) Genomics
+  
 ## Conference Dinner
 
 **[Living Worlds Gallery](https://www.museum.manchester.ac.uk/galleries/living-worlds)**, Manchester Museum
