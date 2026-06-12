@@ -19,4 +19,5 @@ bigimg: https://genomescienceconf.github.io/img/banner_placeholder.jpg
 - <a href="/assets/agendas/Edinburgh_ Genome Science 2019_Agenda.pdf">Genome Science 2019, University of Edinburgh</a>
 - 2020-2023 Conference Furlough, the COVID years
 - <a href="/assets/agendas/Bristol_GenomeScience_2024_Programme.pdf">Genome Science 2024, University of Bristol</a>
+- <a href="/assets/agendas/Newcastle_GenomeScience_2025_Programme.pdf">Genome Science 2025, Newcastle University</a>
 
