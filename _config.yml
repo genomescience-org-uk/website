@@ -29,7 +29,7 @@ navbar-links:
   #Accommodation: "<a href='https://ngcb.hotelplanner.com/Event/79b5/' target='_blank'>Accommodation</a>"
   #Accommodation: accomodation
   Programme:
-  #  - 2025 Programme : "speakers"
+    - 2026 Programme : "agenda"
     - Previous meetings : "previous_meetings"
   #  - Sponsors: "sponsors"
   #Contact:
