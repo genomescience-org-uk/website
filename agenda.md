@@ -34,7 +34,7 @@ cover-img: /assets/img/manchester.jpg
 
 **Conference Dinner**, [Living Worlds Gallery](https://www.museum.manchester.ac.uk/galleries/living-worlds), Manchester Museum
 
-## Wednesday, 16th September 2026
+## Wednesday, 16th September 2026
 
 | Time | Session |
 |------|---------|
