@@ -12,7 +12,7 @@ cover-img: /assets/img/manchester.jpg
 | Time | Session |
 |------|---------|
 | 13:00–13:30 | **Registration, Lunch & Networking** |
-| 13:30–14:30 | **Keynotes**<br>Samra Turajlić, CRUK Manchester |
+| 13:30–14:30 | **Keynotes**<br>Samra Turajlić, CRUK Manchester<br>Dario Bressan, CRUK Cambridge SPACE |
 | 14:30–16:00 | **Evolving Technologies 1**<br>Laura Ingram, Illumina<br>Neil Ward, PacBio<br>Matthew Gow, Element |
 | 16:00–16:30 | **Coffee Break** |
 | 16:30–18:15 | **Single Cell Genomics**<br>Johan Henriksson, Umeå University<br>Andrew Beggs, University of Birmingham |
@@ -30,7 +30,7 @@ cover-img: /assets/img/manchester.jpg
 | 13:00–14:00 | **Photo, Lunch and Poster Session II** | |
 | 14:00–15:30 | **Microbial Communities &amp; The Microbiome**<br>Josh Quick, University of Birmingham | **Cancer &amp; Ageing**<br>Prof Joao Pedro Magalhaes, University of Birmingham<br>Dr Richard Mair, University of Cambridge |
 | 15:30–16:00 | **Coffee Break** | |
-| 16:00–17:30 | **Evolutionary (Microbial) Genomics** | **Human &amp; Clinical Genomics**<br>Bill Newman, Manchester Centre for Genomic Medicine<br>Saskia Sanderson, Kings College London |
+| 16:00–17:30 | **Evolutionary (Microbial) Genomics**<br>Tom Williams, Bath University<br>Jamie Hall, University of Liverpool | **Human &amp; Clinical Genomics**<br>Bill Newman, Manchester Centre for Genomic Medicine<br>Saskia Sanderson, Kings College London |
 
 **Conference Dinner**, [Living Worlds Gallery](https://www.museum.manchester.ac.uk/galleries/living-worlds), Manchester Museum
 
@@ -47,6 +47,7 @@ cover-img: /assets/img/manchester.jpg
 | 11:00–11:30 | Coffee break |
 | 11:30–12:30 | **Keynotes** |
 |  | Bjarni Halldorsson, deCODE |
+|  | Chris Ponting, University of Edinburgh |
 | 12:15 | Lunch & end |
 
 
