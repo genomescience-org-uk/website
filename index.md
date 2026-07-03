@@ -19,6 +19,7 @@ Please join us at **Genome Science UK 2026**. This ever-popular genomic technolo
 
 ### Keynotes
 
+- Chris Ponting, The University of Edinburgh
 - Samra Turajlić, CRUK Manchester Institute
 - Dario Bressan, CRUK Cambridge Institute
 - Bjarni Halldorsson, deCODE 
@@ -49,6 +50,7 @@ Please join us at **Genome Science UK 2026**. This ever-popular genomic technolo
 - Ultima Genomics
 - Element Biosciences
 - DNAe
+- Lightcraft
 
 ### Sessions
 
@@ -61,7 +63,16 @@ Please join us at **Genome Science UK 2026**. This ever-popular genomic technolo
 - Microbial Genomics
 - Microbial Communities & The Microbiome
 - Evolutionary (Microbial) Genomics
-  
+
+## Early bird pricing (to 31st July 2026)
+
+Student: £250
+Facilities: £275
+Academic and Healthcare: £325
+ 
 ## Conference Dinner
 
 **[Living Worlds Gallery](https://www.museum.manchester.ac.uk/galleries/living-worlds)**, Manchester Museum
+
+Conference dinner tickets: £75 per person
+
