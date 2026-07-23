@@ -3,7 +3,6 @@ layout: page
 title: Genome Science UK
 subtitle: Manchester, 14th-16th September 2026
 use-site-title: true
-bigimg: /assets/img/Quayside_4_Credit_Visit_England.jpg
 ---
 
 ## Suggested hotels
@@ -24,7 +23,7 @@ An elegant, modern hotel set in the heart of the innovation district with easy a
 At the hotel, each room has a desk. Complete with a private bathroom equipped with a hair dryer, all units at Hyatt Regency Manchester have a flat-screen TV and air conditioning, and selected rooms come with a seating area.
 
 
-![](image1.png)
+![](/assets/img/hotels/image1.png)
 
 
 Kimpton Clocktower by IHG - https://www.ihg.com/kimptonhotels/hotels/us/en/clocktower-hotel-manchester-uk/manos/hoteldetail
@@ -40,7 +39,7 @@ With its striking clocktower and grand Victorian façade, Kimpton Clocktower is 
 Inside, rooms are spacious and stylish, with a modern edge—featuring premium beds, elegant bathrooms, luxe toiletries, and a delicious tuck box.
 
 
-![](image2.png)
+![](/assets/img/hotels/image2.png)
 
 
 Maldron Hotel Manchester City Centre - https://www.maldronhotels.com/manchester-city-centre/?utm_source=GMBlisting&utm_medium=organic
@@ -56,7 +55,7 @@ In a prime location in the center of Manchester, Maldron Hotel Manchester City C
 At the hotel, every room includes a closet. Featuring a private bathroom with a shower and free toiletries, some units at Maldron Hotel Manchester City Centre also provide guests with a city view. All guest rooms in the accommodation are equipped with a flat-screen TV and a hairdryer. 
 
 
-![](image3.png)
+![](/assets/img/hotels/image3.png)
 
 
 Holiday Inn Express Manchester City Centre by IHG - https://www.ihg.com/holidayinnexpress/hotels/gb/en/manchester/mancc/hoteldetail
@@ -72,7 +71,7 @@ Right next to the University Of Manchester, the Holiday Inn Express Manchester i
 Set on Oxford Road, the hotel has a 24-hour front desk. Air-conditioned bedrooms include a hairdryer, tea and coffee-making facilities, and free toiletries.
 
 
-![](image4.png)
+![](/assets/img/hotels/image4.png)
 
 
 Ibis Manchester Centre Princess Street - https://all.accor.com/hotel/3143/index.en.shtml?utm_campaign=seo+maps&utm_medium=seo+maps&utm_source=google+Maps
@@ -88,7 +87,7 @@ This hotel is located in the corner of Princess Street and Charles Street, withi
 The bright and airy bedrooms each have a flat-screen TV with Freeview channels, Air Climate Control system and a spacious work area. Free WiFi is available throughout the hotel.
 
 
-![](image5.png)
+![](/assets/img/hotels/image5.png)
 
 
 
