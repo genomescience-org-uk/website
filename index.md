@@ -75,3 +75,19 @@ Academic and Healthcare: £325
 
 Conference dinner tickets: £75 per person
 
+## Genome Science Committee
+
+The Genome Science 2026 Committee
+
+ - Jon Coxhead (Newcastle)
+ - Nick Loman (Birmingham)
+ - Matt Loose (Nottingham)
+ - Wolfgang Breitwiser (Manchester)
+ - Sion Bayliss (Bristol)
+ - Lauren Cowley (Bath)
+ - Al Darby (Liverpool)
+ - Sally James (York)
+ - Sophie Nixon (Manchester)
+ - Ania Piskorz (CRUK Cambridge)
+ - Mike Quail (Sanger)
+
