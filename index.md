@@ -11,7 +11,7 @@ cover-img: /assets/img/manchester.jpg
 
 [Our Sponsors](https://github.com/genomescience-org-uk/website/blob/master/sponsors.md)
 
-[Agenda](/agenda)
+[Agenda](https://virtual.oxfordabstracts.com/event/77205/program)
 
 Please join us at **Genome Science UK 2026**. This ever-popular genomic technologies and applications conference will be held at The University of Manchester from 14–16 September 2026.
 
