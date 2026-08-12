@@ -50,7 +50,6 @@ Please join us at **Genome Science UK 2026**. This ever-popular genomic technolo
 - Ultima Genomics
 - Element Biosciences
 - DNAe
-- Lightcraft
 
 ### Sessions
 
@@ -64,7 +63,7 @@ Please join us at **Genome Science UK 2026**. This ever-popular genomic technolo
 - Microbial Communities & The Microbiome
 - Evolutionary (Microbial) Genomics
 
-## Early bird pricing (to 31st July 2026)
+## Early bird pricing (to 14th August 2026)
 
 Student: £250
 Facilities: £275
