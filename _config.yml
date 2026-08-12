@@ -27,6 +27,7 @@ navbar-links:
   #  - Abstract Submission: "abstract"  
   #Venue & Travel: "venue"
   #Accommodation: "<a href='https://ngcb.hotelplanner.com/Event/79b5/' target='_blank'>Accommodation</a>"
+  Sponsors: sponsors
   Accommodation: accomodation
   Programme:
     - 2026 Programme : "agenda"
