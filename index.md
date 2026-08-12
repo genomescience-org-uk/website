@@ -9,7 +9,7 @@ cover-img: /assets/img/manchester.jpg
 
 [Registration link](https://app.oxfordabstracts.com/register/event/77205?preview=false)
 
-[Our Sponsors](https://github.com/genomescience-org-uk/website/blob/master/sponsors.md)
+[Our Sponsors](/sponsors)
 
 [Agenda](https://virtual.oxfordabstracts.com/event/77205/program)
 
