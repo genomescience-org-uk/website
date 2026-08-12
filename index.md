@@ -87,6 +87,7 @@ The Genome Science 2026 Committee
  - Lauren Cowley (Bath)
  - Al Darby (Liverpool)
  - Sally James (York)
+ - Iain Macaulay (Earlham Institute)
  - Sophie Nixon (Manchester)
  - Ania Piskorz (CRUK Cambridge)
  - Mike Quail (Sanger)
