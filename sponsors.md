@@ -16,50 +16,32 @@ We are grateful to our generous sponsors for their support.
 
 ## 🥇 Gold Sponsors
 
-| <img src="/assets/img/logos/Element-Biosciences.png?raw=true" alt="Element Bioscience" width="200"> | <img src="/assets/img/logos/logo_PacBio_RGB.jpg?raw=true" alt="PacBio" width="200"> | <img src="/assets/img/logos/Roche.jpg?raw=true" alt="Roche" width="200"> |
+| <img src="assets/img/logos/10X.png" width="200"> | <img src="assets/img/logos/idt beckman.png" alt="PacBio" width="200"> | <img src="assets/img/logos/Element-Biosciences.png" width="200"> |
 |:--:|:--:|:--:|
-| Element Bioscience | PacBio | Roche |
+| 10x Genomics | Beckman Coulter | Element Biosciences |
 
+| <img src="assets/img/logos/Lightcast logo_RGB_Blue copy.png" width="200"> | <img src="assets/img/logos/NEB.jpg" alt="PacBio" width="200"> | <img src="assets/img/logos/Roche.jpg" width="200"> |
+|:--:|:--:|:--:|
+| Lightcast | New England Biolabs | Roche |
 ---
 
 ## 🥈 Silver Sponsors
 
-| <img src="/assets/img/logos/10X.png?raw=true" alt="10x Genomics" width="200"> | <img src="/assets/img/logos/Agilent.png?raw=true" alt="Agilent" width="200"> | <img src="/assets/img/logos/Biomodal.png?raw=true" alt="Biomodal" width="200"> |
+| <img src="assets/img/logos/Agilent.png" alt="10x Genomics" width="200"> | <img src="assets/img/logos/illumina.jpg" alt="Agilent" width="200"> | <img src="assets/img/logos/Oxford_Nanopore.png" width="200"> |
 |:--:|:--:|:--:|
-| 10x Genomics | Agilent | Biomodal |
-
----
-
-| <img src="/assets/img/logos/DxNE.png?raw=true" alt="DxNE" width="200"> | <img src="/assets/img/logos/DTG.png.png?raw=true" alt="Dovetail" width="200"> | <img src="/assets/img/logos/Earlham-Institute.png?raw=true" alt="Earlham Institute" width="200"> |
-|:--:|:--:|:--:|
-| DxNE | Dovetail | Earlham Institute  |
-
----
-
-| <img src="/assets/img/logos/illumina.jpg?raw=true" alt="Illumina" width="200"> | <img src="/assets/img/logos/NEB.jpg?raw=true" alt="New England Biolabs" width="200"> | <img src="/assets/img/logos/Oxford_Nanopore.png?raw=true" alt="ONT" width="200"> |
-|:--:|:--:|:--:|
-| Illumina | New England Biolabs | ONT |
-
----
-
-| <img src="/assets/img/logos/Parse.png?raw=true" alt="ParseBio" width="200"> | <img src="/assets/img/logos/Takara.png?raw=true" alt="Takara" width="200"> | <img src="/assets/img/logos/TwistBioscience.png?raw=true" alt="Twist" width="200"> |
-|:--:|:--:|:--:|
-| ParseBio | Takara | Twist |
-
----
-
-| <img src="/assets/img/logos/Yourgen_ Health.png?raw=true" alt="Yourgene Health" width="200"> | 
-|:--:|
-| Yourgene Health | 
+| Agilent | Illumina | Oxford Nanopore Technologies |
 
 ---
 
 ## 🥉 Bronze Sponsors
 
-| <img src="/assets/img/logos/Watchmaker_Logo_RGB_800px copy.png?raw=true" alt="Watchmaker" width="200"> | <img src="/assets/img/logos/Scale-Bio.png?raw=true" alt="Scale" width="200"> | <img src="/assets/img/logos/Vazyme.png?raw=true" alt="Vazyme" width="200"> |
+| <img src="assets/img/logos/Daicel.png" alt="Watchmaker" width="200"> | <img src="assets/img/logos/DTG.png.png" alt="Scale" width="200"> | <img src="assets/img/logos/Singleron_Logo_Primary_400px.png" alt="Vazyme" width="200"> |
 |:--:|:--:|:--:|
-| Watchmaker | Scale | Vazyme |
+| Daciel Arbor Biosciences | Dovetail Genomics | Singleron |
 
+| <img src="assets/img/logos/UG_2025_RGB_blue.jpg" alt="Watchmaker" width="200"> | <img src="assets/img/logos/Watchmaker_Logo_RGB_800px copy.png" alt="Scale" width="200"> | <img src="" alt="" width="200"> |
+|:--:|:--:|:--:|
+| Ultimagen | Watchmaker Genomics |  |
 ---
 
 Thank you to all our supporters!
