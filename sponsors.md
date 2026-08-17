@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Genome Science UK
-subtitle: Manchester, 14-16th September 2026
+subtitle: Newcastle, 9th - 11th July 2025
 use-site-title: true
 bigimg: /assets/img/newcastle-gateshead-quayside.jpg
 ---
@@ -16,13 +16,11 @@ We are grateful to our generous sponsors for their support.
 
 ## 🥇 Gold Sponsors
 
-| <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/10X.png" alt="10x Genomics" width="200"> | <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/idt%20beckman.png" alt="Beckman Coulter Life Sciences" width="200"> | <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/Element-Biosciences.png" alt="Element Biosciences" width="200"> |
+| <img src="/assets/img/logos/Element-Biosciences.png?raw=true" alt="Element Bioscience" width="200"> | <img src="/assets/img/logos/logo_PacBio_RGB.jpg?raw=true" alt="PacBio" width="200"> | <img src="/assets/img/logos/Roche.jpg?raw=true" alt="Roche" width="200"> |
 |:--:|:--:|:--:|
-| 10x Genomics | Beckman Coulter Lifesciences | Element Biosciences 
+| Element Bioscience | PacBio | Roche |
 
-| <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/10X.png" alt="10x Genomics" width="200"> | <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/idt%20beckman.png" alt="Beckman Coulter Life Sciences" width="200"> | <img src="https://github.com/genomescience-org-uk/website/blob/master/assets/img/logos/Element-Biosciences.png" alt="Element Biosciences" width="200"> |
-|:--:|:--:|:--:|
-| 10x Genomics | Beckman Coulter Lifesciences | Element Biosciences 
+---
 
 ## 🥈 Silver Sponsors
 
