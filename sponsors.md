@@ -6,7 +6,7 @@ use-site-title: true
 bigimg: //assets/img/newcastle-gateshead-quayside.jpg
 ---
 
-![Quayside_at_night_Graeme_Peacock](/assets/img/Quayside_at_night_Graeme_Peacock.jpg")
+![Quayside_at_night_Graeme_Peacock](/assets/img/Quayside_at_night_Graeme_Peacock.jpg)
 
 # Our Sponsors
 
