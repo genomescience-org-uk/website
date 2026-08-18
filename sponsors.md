@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Genome Science UK
-subtitle: Newcastle, 9th - 11th July 2025
+subtitle: Manchester, 14th - 16th September 2026
 use-site-title: true
 bigimg: //assets/img/newcastle-gateshead-quayside.jpg
 ---
