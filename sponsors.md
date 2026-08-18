@@ -3,10 +3,10 @@ layout: page
 title: Genome Science UK
 subtitle: Manchester, 14th - 16th September 2026
 use-site-title: true
-bigimg: //assets/img/newcastle-gateshead-quayside.jpg
+bigimg: //assets/img/logos/william-mccue-1jZbU_XuyvU-unsplash.jpg
 ---
 
-![Quayside_at_night_Graeme_Peacock](/assets/img/Quayside_at_night_Graeme_Peacock.jpg)
+![Manchester](assets/img/logos/william-mccue-1jZbU_XuyvU-unsplash.jpg)
 
 # Our Sponsors
 
