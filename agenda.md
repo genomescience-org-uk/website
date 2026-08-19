@@ -40,7 +40,7 @@ cover-img: /assets/img/manchester.jpg
 |------|---------|
 | 08:30–09:15 | Coffee & Pastries |
 | 09:15–11:00 | **Evolving Technologies 2** |
-|  | Sarah Pollack, Ultima |
+|  | Sarah Pollock, Ultima Genomics |
 |  | Bernd Timmerman, Roche |
 |  | Lakmal Jayasinghe, ONT |
 |  | Raquel Fraccari, DNAe |
