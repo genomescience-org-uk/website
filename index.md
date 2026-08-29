@@ -21,6 +21,7 @@ Please join us at **Genome Science UK 2026**. This ever-popular genomic technolo
 
 - Chris Ponting, The University of Edinburgh
 - Samra Turajlić, CRUK Manchester Institute
+- Chris Ponting, The University of Edinburgh
 - Dario Bressan, CRUK Cambridge Institute
 - Bjarni Halldorsson, deCODE 
  
