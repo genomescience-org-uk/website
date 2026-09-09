@@ -32,6 +32,8 @@ We are grateful to our generous sponsors for their support.
 | <img src="/assets/img/logos/Parse.png" alt="ParseBio" width="200"> | | |
 |:--:|:--:|:--:|
 | ParseBio |  |  |
+
+
 ## 🥉 Bronze Sponsors
 
 | <img src="/assets/img/logos/Daicel.png" alt="Daciel Arbor Biosciences" width="200"> | <img src="/assets/img/logos/DTG.png.png" alt="Dovetail" width="200"> | <img src="/assets/img/logos/Singleron_Logo_Primary_400px.png" alt="Singleron" width="200"> |
