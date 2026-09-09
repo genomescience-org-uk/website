@@ -7,6 +7,8 @@ cover-img: /assets/img/manchester.jpg
 
 ## Agenda
 
+[Mobile phone compatible agenda](https://virtual.oxfordabstracts.com/event/77205/program)
+
 ## Monday, 14th September 2026
 
 # Day 1 — Room G.41
