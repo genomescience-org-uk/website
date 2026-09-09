@@ -39,7 +39,7 @@ We are grateful to our generous sponsors for their support.
 | <img src="/assets/img/logos/Daicel.png" alt="Daciel Arbor Biosciences" width="200"> | <img src="/assets/img/logos/DTG.png.png" alt="Dovetail" width="200"> | <img src="/assets/img/logos/Singleron_Logo_Primary_400px.png" alt="Singleron" width="200"> |
 |:--:|:--:|:--:|
 | Daciel Arbor Biosciences | Dovetail Genomics | Singleron |
-| <img src="/assets/img/logos/UG_2025_RGB_blue.jpg" alt="Ultimagen" width="200"> | <img src="/assets/img/logos/Watchmaker_Logo_RGB_800px copy.png" alt="Watchmaker" width="200"> | <img src="assets/img/logos/Takara.png" alt="Takara" width="200"> |
+| <img src="/assets/img/logos/UG_2025_RGB_blue.jpg" alt="Ultimagen" width="200"> | <img src="/assets/img/logos/Watchmaker_Logo_RGB_800px copy.png" alt="Watchmaker" width="200"> | <img src="/assets/img/logos/Takara.png" alt="Takara" width="200"> |
 |:--:|:--:|:--:|
 | Ultimagen | Watchmaker Genomics | Takara |
 
