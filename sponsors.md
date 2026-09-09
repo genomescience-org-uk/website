@@ -29,7 +29,7 @@ We are grateful to our generous sponsors for their support.
 | <img src="/assets/img/logos/Agilent.png" alt="Agilent" width="200"> | <img src="/assets/img/logos/illumina.jpg" alt="Illumina" width="200"> | <img src="/assets/img/logos/Oxford_Nanopore.png" width="200"> |
 |:--:|:--:|:--:|
 | Agilent | Illumina | Oxford Nanopore Technologies |
-| <img src="assets/img/logos/Parse.png" alt="ParseBio" width="200"> | 
+| <img src="assets/img/logos/Parse.png" alt="ParseBio" width="200"> | | |
 |:--:|:--:|:--:|
 | ParseBio |  |  |
 ## 🥉 Bronze Sponsors
