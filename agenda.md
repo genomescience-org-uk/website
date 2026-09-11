@@ -78,7 +78,7 @@ cover-img: /assets/img/manchester.jpg
 | 08:30–09:15 | Refreshments and networking |
 | 09:15–11:05 | **Evolving Technologies 2** (Chair: Michael Quail) |
 | 09.15–09.40 | Germline whole-genome sequencing with high accuracy and improved coverage using the Ultima Genomics UG200 sequencing platform and Solaris 2.0 Chemistry — *Sarah Pollock, Ultima* |
-| 09.40–10.05 | Title to follow — *Bernd Timmerman, Roche* |
+| 09.40–10.05 | Sequencing by Expansion (SBX) — an ulta-fast, scalable, high-throughput single-molecule sequencing technology — *Bernd Timmerman, Roche* |
 | 10.05–10.30 | Oxford Nanopore: Unlocking New Dimensions in Biology — *Lakmal Jayasinghe, ONT* |
 | 10.30–10.50 | Development of a fully integrated benchtop NGS-based platform, LiDia-SEQ™, for use at the point-of-need — *Raquel Fraccari, DNAe* |
 | 10.50–11.00 | Title to follow — *Emma Sharkey* |
